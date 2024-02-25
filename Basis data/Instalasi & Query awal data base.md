@@ -1,3 +1,41 @@
+#  Pengenalan Basis Data
+
+## Definisi Basis Data
+
+_Basis_ : Adalah tempat berkumpul, markas, gudang, wadah suatu data
+
+_Data_ : Adalah sekumpulan fakta sebuah objek
+
+_Kesimpulan_ : _Basis data_ adalah kumpulan informasi yg disimpan di dalam komputer secara sistematik
+
+## Peranan Basis Data
+
+Bank: Bank merupakan salah satu organisasi yang sangat tergantung kepada sistem basis data. Data nasabah, transaksi yang dilakukan, dan data keuangan lainnya disimpan di sistem basis data. Sistem ini memungkinkan layanan kepada nasabah bank dapat dilakukan dengan baik.
+## Struktur database
+| No | Nama  | Alamat             | Hobi           |
+| -- | ----- | ------------------ | -------------- |
+| 1  | Fatir | Jl. Muh jufri4     | Baca komik     |
+| 2  | Daud  | Jl. Kalumpang      | Main minecraft |
+| 3  | Agis  | Jl. Galangan kapal | Baca komik     |
+| 4  | Angga | Jl. Traktor4       | Nonton anim    |
+### Tabel
+Tabel adalah sebuah struktur dasar yang menyimpan data dalam format terstruktur. Setiap tabel memiliki kolom yang mewakili atribut dan baris yang mewakili catatan. Contoh seperti di bawah berikut
+
+- Baris merupakan deretan horizontal yang terdiri dari kata, angka, data atau objek lainnya, contoh di atas contoh untuk baris seperti. 1, Fatir, jl. Muh jufri4, baca komik, , 2, Daud, jl. Kalumpang, main minecraft, , Dan seterusnya. 
+- Kolom merupakan deretan vertikal contoh di atas untuk kolom seperti. 1, 2, 3, 4, Ahmad Fatir, daud, Dan seterusnya. 
+- untuk isinya itu merupakan sebuah item data atau karakter yang di masukkan ke dalam tabel.
+
+### Database
+
+Database (basis data) adalah kumpulan data yang terorganisir dengan cara tertentu untuk memudahkan pengelolaan, penyimpanan, dan pengambilan informasi. Dalam sebuah database, data disimpan dalam tabel yang terdiri dari baris dan kolom. Setiap baris dalam tabel mewakili sebuah catatan atau entitas, sedangkan kolom menyimpan. Di database juga memiliki komponen utama seperti.
+
+1. **Tabel:** Struktur dasar yang menyimpan data dalam format terstruktur. Setiap tabel memiliki kolom yang mewakili atribut dan baris yang mewakili catatan.
+    
+2. **Baris atau Record:** Masing-masing baris dalam tabel berisi data untuk satu entitas atau catatan tertentu.
+    
+3. **Kolom atau Field:** Masing-masing kolom dalam tabel menyimpan informasi tentang atribut tertentu, seperti nama, alamat, atau nomor telepon.
+    
+4. Item Data atau Karakter: merupakan isian dari baris dan kolom.
 # instalasi mySQL
 ## menggunakan termux
 1. Buka termux
@@ -22,7 +60,6 @@
 ``<mysql -u root -p>``
 ## hasil
 ![250](Mysqroot.jpg)
-
 
 ## Analisis kesimpulan
 - `<mySQL>` Salah satu aplikasi database server dengan bahasa pemrograman structured query languange `(SQL)` yang berfungsi untuk mengelola data secara terstruktur dan sistematis.

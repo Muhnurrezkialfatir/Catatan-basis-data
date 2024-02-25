@@ -123,7 +123,7 @@ Isi atau konten tag merujuk pada teks, elemen, atau informasi yang ditempatkan d
   </body>
 </html>
 ```
-![Align|250](gambarhasilhtml/Align.jpg)
+![Align|250](Gambarhasilhtml/Align.jpg)
 - Atribut `align="right"` Teks akan diatur agar terletak di sebelah kanan.
 - Atribut `align="center"` Teks akan diatur agar berada di tengah.
 - Atribut `align="left"` Teks akan diatur agar berada di sebelah kiri.
@@ -171,6 +171,7 @@ Untuk menampilkan list dalam HTML dapat menggunakan tag ``<li>``... ``</li>`` na
 </html>
 ```
 ![List|250](Gambarhasilhtml/list.jpg)
+
 ## link 
 Link dapat ditemukan di hampir semua balaman web. Link/tautan memungkinkan sebuah teks yang ketika di klik akan pindah ke haleman lainnya. HTML menggunakan tag ``<a>``untuk kepeduan ini. Link ditulis dengan ``<a>``yang merupakan singkatan card anchor (jangkar).
 
@@ -444,6 +445,7 @@ Hasil
 ```
 Hasil:
 ![250](Gambarhasilhtml/bulan.jpg)
+
 # Form
 
 Elemen `<form>` HTML digunakan untuk mendefinisikan _form_ yang digunakan untuk mengumpulkan inputan dari pengguna _website_. Tag ini digunakan untuk mengkoleksi inputan dari user, konsep ini sama seperti konsep formulir di dunia nyata.
@@ -692,4 +694,9 @@ tag div merupakan tag yang digunakan untuk membuat layer yang dimana itu akan me
 Mirip seperti DIV, span adalah tag HTML yang tidak punya makna apa-apa ketika berdiri sendiri. Ia berguna untuk memberi aksi atau hiasan pada sebuah atau sekelompok elemen HTML.
 ### Contoh
 ```html
+<p>saya hari ini,<span>akan pergi</span></p>
+<span>ini pake span</span>
+<span>sama pake span</span>
 ```
+### Hasil
+![300](Gambarhasilhtml/Span.jpg)
