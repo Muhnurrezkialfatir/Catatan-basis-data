@@ -54,13 +54,12 @@ Database (basis data) adalah kumpulan data yang terorganisir dengan cara tertent
 14. Kalo mau menggunakan data basenya ketik ``use [nama database];``
 
 ## referensi youtube
-![](https://youtu.be/JojQd-l7fEE?si=OPIB01q45A2FmY1x) 
+https://youtu.be/JojQd-l7fEE?si=OPIB01q45A2FmY1x
 # penggunaan awal MySQL
 ## Query
 ``<mysql -u root -p>``
 ## hasil
-![250](Mysqroot.jpg)
-
+![250](Asetdatabase/Mysqroot.jpg)
 ## Analisis kesimpulan
 - `<mySQL>` Salah satu aplikasi database server dengan bahasa pemrograman structured query languange `(SQL)` yang berfungsi untuk mengelola data secara terstruktur dan sistematis.
 - `<-u root>` Bagian ini mengeset pengguna (user) yang akan digunakan saat terhubung ke server  MYSQL. Dalam contoh ini, pengguna yang digunakan adalah `"root"`. Pengguna `"root"` biasanya memiliki hak akses penuh ke server MYSQL dan dapat melakukan tindakan administratif.
@@ -78,8 +77,7 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ``create database xi_rpl_1;``
 
 ### Hasil:
-![300](Buatdatabase.jpg)
-
+![300](Asetdatabase/Buatdatabase.jpg)
 ### Analisis kesimpulan :
 - CREATE DATABASE adalah perintah untuk membuat database baru.
 - XRPL 1 adalah nama yang Anda pilih untuk database baru Anda. Tanda kurung siku '<("{}")>'digunakan di sini untuk menghindari kesalahan jika nama database mengandung karakter spesial atau spasi. Namun, perlu dicatat bahwa tidak semua DBMS mengizinkan penggunaan tanda kurung siku dalam nama database, jadi pastikan untuk menyesuaikan sintaksdengan DBMS yang Anda gunakan.
@@ -89,7 +87,7 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ``show databases;``
 
 ### Hasil:
-![250](Showdatabase.jpg)
+![250](Asetdatabase/Showdatabase.jpg)
 ### Analisis kesimpulan :
 
 `SHOW DATABASE` digunakan untuk menampilkan daftar database yang ada dalam sistem manejemen basis data (DBMS). Perintah ini dapat digunakan di beberapa DBMS seperti MYSQL, PostgreSQL, dan beberapa DBMS lainnya. Namun, perintahnya dapat sedikit berbeda tergantung
@@ -98,7 +96,7 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ### Query
 ``drop database xi_rpl_1``
 ### Hasil:
-![300](Dropdata.jpg)
+![300](Asetdatabase/Dropdata.jpg)
 ### Analisis kesimpulan
 `DROP DATABASE` nama database digunakan dalam sistem manajemen basis data (DBMS) untuk menghapus sebuah database beserta semua objek yang terkait dengan database tersebut, seperti tabel, indeks, tampilan, prosedur tersimpan, dan lain-lain.
 ## gunakan data base
@@ -106,7 +104,7 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ### Query
 `` use xi_rpl_1; ``
 ### Hasil:
-![300](Usedata.jpg)
+![300](Asetdatabase/Usedata.jpg)
 ### Analisis kesimpulan :
 `Use [nams database]` digunakan dalam sistem manajemen basis data (DBMS) untuk beralih atau memilih database yang akan digunakan. Ketika Anda menggunakan perintah uses diikuti dengan nama database, DBMS akan mengarahkan semua perintah dan operasi selanjutnya pada database yang ditentukan.
 # tipe data
