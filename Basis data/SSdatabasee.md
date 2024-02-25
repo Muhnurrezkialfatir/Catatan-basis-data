@@ -1,0 +1,7 @@
+![[Buatdatabase.jpg]]
+![[Mysqroot.jpg]]
+![[Showdatabase.jpg]]
+![[Dropdata.jpg]]
+![[Usedata.jpg]]
+![[Update.jpg]]
+![[Delete.jpg]]

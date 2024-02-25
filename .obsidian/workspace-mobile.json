@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "515a2241c5152e4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f51ebfe1823709d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58b0b8db571f169f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "29068842e4ad1a69",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Belajar HTML/Gambarhasilhtml/Sshtml.jpg"
+              }
+            }
+          },
+          {
+            "id": "1c98d21a3db78ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Data base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52bf71ef678565a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Data base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "640b2f7ac2d87956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Ssdatabase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5757327df324e518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar HTML/Belajar HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16b92c03fd30376d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3da45db2db5cb04a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "10e7d6fcb0137659",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d6497d0979a4a06",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "850c8c2a93761008",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1579cb66d93b9801",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df8b508968dc1bfe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Belajar HTML/Belajar HTML.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e6f251e6608b9d38",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Belajar HTML/Belajar HTML.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1b7e116932ccb997",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Belajar HTML/Belajar HTML.md"
+          }
+        }
+      },
+      {
+        "id": "ccfb7df55a12162e",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "5757327df324e518",
+  "lastOpenFiles": [
+    "Belajar HTML/Gambarhasilhtml.md",
+    "Perkenalkan web/Perbedaan HTML, CSS, dan JAVASCRIPT.md",
+    "Belajar HTML/Belajar HTML.md",
+    "Perkenalkan web/Kesimpulan video dibawah ini.md",
+    "Belajar HTML/Gambarhasilhtml/Gambar html.md",
+    "Belajar HTML/Gambarhasilhtml/Rumah.jpg",
+    "Perkenalkan web/Kesimpulan video.md",
+    "Html/Pertemuan_1.md",
+    "Html/Aset/hi.png",
+    "Untitled.loom",
+    "Hasil.md",
+    "Basis data/Ssdatabase.md",
+    "Perkenalkan web/Perkenalkan web.md",
+    "Basis data/Instalasi & Query awal data base.md",
+    "Basis data/SSdatabasee.md",
+    "Basis data/Asetdatabase/Delete.jpg",
+    "Basis data/Asetdatabase/Update.jpg",
+    "Basis data/Data base.md",
+    "Basis data/SELECT LANJUTAN.md",
+    "Basis data/Pengertian basis data.md",
+    "Belajar HTML/Gambarhasilhtml/Div.jpg",
+    "Belajar HTML/Gambarhasilhtml/Table1.jpg",
+    "Basis data/Asetdatabase/Where.jpg",
+    "Basis data/Asetdatabase/Klom.jpg",
+    "Basis data/Asetdatabase/Insert1data.jpg",
+    "Basis data/Ssdatabase 1.md",
+    "ssdatabase/StrukturStruktur.jpg.md",
+    "ssdatabase/create.md",
+    "Basis data/Asetdatabase/Untitled.md",
+    "Basis data/Asetdatabase/Select.jpg",
+    "Ssdatabase/StrukturStruktur.jpg.md",
+    "Belajar CSS/AsetCSS/Gambar CSS.md",
+    "aset.md",
+    "Belajar CSS/File CSS.md",
+    "asetcss/Awal.jpg.md",
+    "asetcss/awal.md",
+    "Asetcss/Awal.jpg.md",
+    "asetcss",
+    "Belajar CSS/AsetCSS",
+    "Belajar CSS/File css",
+    "Belajar CSS",
+    "ssdatabase",
+    "Basis data/Asetdatabase",
+    "Gambarhasilhtml",
+    "Belajar HTML/Gambarhasilhtml",
+    "Belajar HTML"
+  ]
+}

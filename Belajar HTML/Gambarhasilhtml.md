@@ -1,0 +1,8 @@
+![[Folder_video.jpg]]
+![[Tampilanaudio.jpg]]
+![[Fileaudio.jpg]]
+![[Weblain.jpg]]
+![[Sstabel.jpg]]
+![[Ssformulir.jpg]]
+![[Bulan.jpg]]
+![[Motor.jpg]]

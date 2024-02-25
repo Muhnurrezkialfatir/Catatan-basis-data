@@ -1,0 +1,5 @@
+Di video tersebut dia membahas sejarah web development pada tahun 1990-an seseorang yang bernama Tim Berners-Lee dia membuat sistem yang memungkinkan kita buat menghungkan suatu dokumen dan dia juga yang membuat protokol yang bernama http fungsi http juga dapat kita artikan sebagai bahan penghubung antar client dan server dan juga kita dapat lebih mudah membaca dokumen yang di format kan,dia juga ciptain ==HTML== untuk membuat teks menjadi lebih rapi dan teratur tapi semakin banyak tag dan styling di html maka membuat kode berantakan,dan ==CSS== di ciptakan oleh pak hakon wiyung lee dengan tujuan struktur htmlnya di pisah dan jadi lebih mudah kita styling,dia juga ciptain browser atau bisa di bilang worldwipe atau www dan www biasa kita temukan diwebsite. 
+
+
+
+Pentingnya kita memahami sejarah dan konsep dasar, seperti HTTP, HTML,CSS dan browser. 

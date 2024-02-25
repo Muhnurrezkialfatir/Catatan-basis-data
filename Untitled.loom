@@ -1,0 +1,244 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "08fcd435-4469-402f-b6c1-a4ead9faada8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "No",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "e8c78202-2506-4d91-b68d-93a20b49dfce",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Nama",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "b378d6cd-68db-4dbc-a946-141d9757d9f1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Alamat",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "3c751917-93d9-4040-b62c-6a6ec8c0822f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Hobi",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "b1fddcea-ac53-4456-919a-37319fd862dc",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:18:28.147Z",
+        "lastEditedDateTime": "2024-01-23T02:54:52.838Z",
+        "cells": [
+          {
+            "id": "d62c4d26-fe60-4859-8ebd-7336b5d0c049",
+            "columnId": "08fcd435-4469-402f-b6c1-a4ead9faada8",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "70b49b60-13a8-4a7c-8948-6172a44eedff",
+            "columnId": "e8c78202-2506-4d91-b68d-93a20b49dfce",
+            "content": "Fatir",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc41e39d-7c1d-4dd3-a397-856b44514d64",
+            "columnId": "b378d6cd-68db-4dbc-a946-141d9757d9f1",
+            "content": "Jl. Muh jufri4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4dd652ee-17bd-4fe9-b193-662f80c738c3",
+            "columnId": "3c751917-93d9-4040-b62c-6a6ec8c0822f",
+            "content": "Baca komik",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5009b1da-df9d-48b4-871c-57d2f5db7526",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:19:38.605Z",
+        "lastEditedDateTime": "2024-01-23T02:56:21.492Z",
+        "cells": [
+          {
+            "id": "b58261b5-a4ba-4b05-b14b-829d46799f4b",
+            "columnId": "08fcd435-4469-402f-b6c1-a4ead9faada8",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "118ab36a-fa80-4d98-a3d7-be45a18cb177",
+            "columnId": "e8c78202-2506-4d91-b68d-93a20b49dfce",
+            "content": "Daud",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "78c44695-ecf1-4404-8f52-431a41e73a33",
+            "columnId": "b378d6cd-68db-4dbc-a946-141d9757d9f1",
+            "content": "Jl. Kalumpang",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da1afcbd-9e76-4265-90dc-2de0753932db",
+            "columnId": "3c751917-93d9-4040-b62c-6a6ec8c0822f",
+            "content": "Main minecraft",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "09cfdcb5-0d6b-4319-a045-575f31749acc",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:19:40.963Z",
+        "lastEditedDateTime": "2024-01-23T02:55:29.143Z",
+        "cells": [
+          {
+            "id": "1d92481e-3275-434d-8ec5-9256ecfa1deb",
+            "columnId": "08fcd435-4469-402f-b6c1-a4ead9faada8",
+            "content": "3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b9d8c4ba-8509-4a19-8d09-7a55837855a1",
+            "columnId": "e8c78202-2506-4d91-b68d-93a20b49dfce",
+            "content": "Agis",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "059a843c-db02-4441-babb-6afb9f5397ec",
+            "columnId": "b378d6cd-68db-4dbc-a946-141d9757d9f1",
+            "content": "Jl. Galangan kapal",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b90f5c18-cd57-49a7-80b2-0b97911808ed",
+            "columnId": "3c751917-93d9-4040-b62c-6a6ec8c0822f",
+            "content": "Baca komik",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "26635bab-a554-48de-979b-defb68b0959c",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T02:50:55.047Z",
+        "lastEditedDateTime": "2024-01-23T02:55:23.932Z",
+        "cells": [
+          {
+            "id": "96600efe-ed79-47a9-9f96-d3b302736f91",
+            "columnId": "08fcd435-4469-402f-b6c1-a4ead9faada8",
+            "content": "4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32b8832c-4f28-41ab-829d-9723a5923b08",
+            "columnId": "e8c78202-2506-4d91-b68d-93a20b49dfce",
+            "content": "Angga",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92a25fbc-08e3-47a2-b1ad-3c83a7fc69ae",
+            "columnId": "b378d6cd-68db-4dbc-a946-141d9757d9f1",
+            "content": "Jl. Traktor4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ec39612-6172-4985-9a30-2d6083fed106",
+            "columnId": "3c751917-93d9-4040-b62c-6a6ec8c0822f",
+            "content": "Nonton anim",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
