@@ -170,7 +170,7 @@ Untuk menampilkan list dalam HTML dapat menggunakan tag ``<li>``... ``</li>`` na
   </body>
 </html>
 ```
-![List|250](Gambarhasilhtml/list.jpg)
+![List|250](Gambarhasilhtml/Lst.jpg)
 
 ## link 
 Link dapat ditemukan di hampir semua balaman web. Link/tautan memungkinkan sebuah teks yang ketika di klik akan pindah ke haleman lainnya. HTML menggunakan tag ``<a>``untuk kepeduan ini. Link ditulis dengan ``<a>``yang merupakan singkatan card anchor (jangkar).
@@ -247,9 +247,9 @@ dalam HTML, video didefinisikan dengan tag `<video>`, tag `<video>` adalah tag y
 
 misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampilkan video tersebut kita hanya perlu mengisi nama video beserta jenis ekstensi file video didalam tag `<source>` dan didalamnya atribut `src` terus juga didalam tag `<source>` kita beri juga didalamnya atribut `type` untuk menetukan tipe MIME(Multipurpose Internet Mail Extensions) di file video yang di sematkan.
 
-![250](Gambarhasilhtml/video.jpg)
+![250](Gambarhasilhtml/Video1.jpg)
 
-![250](Gambarhasilhtml/folder_video.jpg)
+![250](Gambarhasilhtml/Folder_video1.jpg)
 ## audio
 ```html
 <!DOCTYPE html>
@@ -272,7 +272,7 @@ Di HTML, tag `<audio>` digunakan untuk menyematkan dan memainkan file audio di h
 - `<source>` Digunakan untuk menyediakan beberapa sumber audio dan memberi browser pilihan format yang sesuai.
 
 Tampilan ke web
-![250](Gambarhasilhtml/Tampilanaudio.Jpg)
+![250](Gambarhasilhtml/Tampilanaudio1.jpg)
 ![250](Gambarhasilhtml/Fileaudio.jpg)
 
 ## Halaman web lain
@@ -292,7 +292,7 @@ contoh
 ```
 
 hasil
-![250](Gambarhasilhtml/weblain.jpg)
+![250](Gambarhasilhtml/Weblain1.jpg)
 
 
 # Tabel
@@ -444,7 +444,7 @@ Hasil
   </html>
 ```
 Hasil:
-![250](Gambarhasilhtml/bulan.jpg)
+![250](Gambarhasilhtml/Bulan1.jpg)
 
 # Form
 
@@ -677,7 +677,7 @@ Untuk mendapatkan gambaran lebih jelas, sebenarnya akan dijelaskan pada modul se
 </html>
 ```
 Hasil:
-![250](Gambarhasilhtml/motor.jpg)
+![250](Gambarhasilhtml/Motor1.jpg)
 # DIV & SPAN
 ## DIV
 ### Penjelasan

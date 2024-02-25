@@ -46,7 +46,7 @@ Int main{
 }
 
 ```
-![[List.jpg]]
+![[Lst.jpg]]
 Gambar 
 ![hi|300x500](aset/hi.png)
 ![[H1-H6.jpg]]

@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar HTML/Belajar HTML.md",
+                "file": "Basis data/Instalasi & Query awal data base.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar HTML/Belajar HTML.md",
+            "file": "Basis data/Instalasi & Query awal data base.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar HTML/Belajar HTML.md",
+            "file": "Basis data/Instalasi & Query awal data base.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -169,7 +169,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar HTML/Belajar HTML.md"
+            "file": "Basis data/Instalasi & Query awal data base.md"
           }
         }
       },
@@ -198,9 +198,11 @@
   },
   "active": "5757327df324e518",
   "lastOpenFiles": [
+    "Belajar HTML/Belajar HTML.md",
+    "Belajar HTML/Gambarhasilhtml/Weblain1.jpg",
+    "Belajar HTML/Gambarhasilhtml/Lst.jpg",
     "Basis data/Instalasi & Query awal data base.md",
     "Basis data/SELECT LANJUTAN.md",
-    "Belajar HTML/Belajar HTML.md",
     "Basis data/Asetdatabase/Mysqroot.jpg",
     "Basis data/Data base.md",
     "d.loom",
@@ -222,8 +224,6 @@
     "Basis data/Pengertian basis data.md",
     "Belajar HTML/Gambarhasilhtml/Div.jpg",
     "Belajar HTML/Gambarhasilhtml/Table1.jpg",
-    "Basis data/Asetdatabase/Where.jpg",
-    "Basis data/Asetdatabase/Klom.jpg",
     "Basis data/Ssdatabase 1.md",
     "ssdatabase/StrukturStruktur.jpg.md",
     "ssdatabase/create.md",

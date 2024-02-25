@@ -370,7 +370,8 @@ Select nama_depan From pelanggan
 Where id=813;
 ```
 ### Hasil
-![300](Asetdatabase/where.jpg)
+![300](Asetdatabase/Where1.jpg)
+
 ### Analisis
 - `Select` merupakan query yang digunakan untuk menampilkan hasil `insert` 
 - `id_pelanggan,nama_depan` nama kolom dalam tabel database yang mungkin menyimpan informasi tentang nama depan dari pelanggan.
