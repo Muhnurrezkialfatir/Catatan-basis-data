@@ -11,6 +11,16 @@ _Kesimpulan_ : _Basis data_ adalah kumpulan informasi yg disimpan di dalam ko
 ## Peranan Basis Data
 
 Bank: Bank merupakan salah satu organisasi yang sangat tergantung kepada sistem basis data. Data nasabah, transaksi yang dilakukan, dan data keuangan lainnya disimpan di sistem basis data. Sistem ini memungkinkan layanan kepada nasabah bank dapat dilakukan dengan baik.
+
+# Data base
+
+## Contoh tabel database
+![300](Asetdatabase/Hirarki.jpg)
+
+## Struktur Tabel Dalam Basis Data
+Struktur/Hirarki DataBase adalah struktur organisasi data dalam database yang mengatur hubungan antara entitas atau tabel data.Di dalam hirarki database,data diorganisir dalam bentuk pohon dengan satu entitas induk atau tabel utama yang memiliki beberapa entitas tabel yang terkait.
+
+Database saya anggap seperti Liga Inggris yang dimana Dia Menampung Club" Seperti MU,MC, yg di dalamnya Mempunyai Pemain Yang berbeda beda Sama Seperti Database dimana Dia Menampung File" Yg berbeda beda di dalamnya Contohnya: Ada 4 Club yg saya Ambil 1 saya Uraikan DiMana 4 Club itu ada Manchester United, Manchester city, Tottenham, Aston Villa. Yang saya Uraikan Manchester City dalam bentuk Tabel.
 ## Struktur database
 | No | Nama  | Alamat             | Hobi           |
 | -- | ----- | ------------------ | -------------- |
