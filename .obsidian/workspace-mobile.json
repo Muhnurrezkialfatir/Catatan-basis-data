@@ -67,14 +67,122 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Basis data/SELECT LANJUTAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cdf0a4483576039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar CSS/File CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d948c3411ea98824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web font (google font-online&offline).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0bdcc996d56284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Select.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d6214bc334bd5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar CSS/File CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ef9e69591aee023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Basis data/Instalasi & Query awal data base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff181ca28329227c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web font (google font-online&offline).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144f41d1f3c3f24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar CSS/Web font.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47248b7a73c388ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36443d2616a2b8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar CSS/File CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -99,7 +207,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#001A54",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -140,7 +248,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md",
+            "file": "Belajar CSS/File CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +265,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md",
+            "file": "Belajar CSS/File CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -169,7 +277,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md"
+            "file": "Belajar CSS/File CSS.md"
           }
         }
       },
@@ -196,52 +304,52 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "5757327df324e518",
+  "active": "36443d2616a2b8c0",
   "lastOpenFiles": [
-    "Basis data/Ssdatabase 1.md",
-    "Basis data/Asetdatabase/Hirarki.jpg",
-    "Basis data/Data base.md",
-    "Basis data/Instalasi & Query awal data base.md",
-    "Basis data/Ssdatabase.md",
-    "Basis data/SELECT LANJUTAN.md",
-    "Basis data/Pengertian basis data.md",
-    "Belajar HTML/Belajar HTML.md",
-    "Belajar HTML/Gambarhasilhtml/Weblain1.jpg",
-    "Belajar HTML/Gambarhasilhtml/Lst.jpg",
-    "Basis data/Asetdatabase/Mysqroot.jpg",
-    "d.loom",
-    "Basis data/SSdatabasee.md",
-    "Belajar HTML/Sshasilhtml.md",
-    "Belajar HTML/Gambarhasilhtml/Span.jpg",
-    "Perkenalkan web/Perbedaan HTML, CSS, dan JAVASCRIPT.md",
-    "Perkenalkan web/Kesimpulan video dibawah ini.md",
-    "Belajar HTML/Gambarhasilhtml/Gambar html.md",
-    "Belajar HTML/Gambarhasilhtml/Rumah.jpg",
-    "Perkenalkan web/Kesimpulan video.md",
-    "Html/Pertemuan_1.md",
-    "Html/Aset/hi.png",
-    "Hasil.md",
-    "Perkenalkan web/Perkenalkan web.md",
-    "Basis data/Asetdatabase/Delete.jpg",
-    "Basis data/Asetdatabase/Update.jpg",
-    "Belajar HTML/Gambarhasilhtml/Div.jpg",
-    "ssdatabase/StrukturStruktur.jpg.md",
-    "ssdatabase/create.md",
-    "Basis data/Asetdatabase/Untitled.md",
-    "Ssdatabase/StrukturStruktur.jpg.md",
-    "Belajar CSS/AsetCSS/Gambar CSS.md",
-    "aset.md",
+    "Belajar CSS/CSS Responsivebaru.md",
     "Belajar CSS/File CSS.md",
-    "asetcss/Awal.jpg.md",
-    "asetcss/awal.md",
+    "Belajar CSS/assets/responsive-1.png",
+    "Belajar CSS/assets/res-3.png",
+    "Belajar CSS/assets/res-2.png",
+    "Belajar CSS/CSS Responsive(1).md",
+    "Belajar CSS/Bootstrap Framework.md",
+    "Basis data/Alter.md",
+    "Belajar CSS/assets/laravel-7.png",
+    "Belajar CSS/assets/btc-95.png",
+    "Belajar CSS/assets/btc-94.png",
+    "Belajar CSS/assets/btc-93.png",
+    "Belajar CSS/assets/btc-92.png",
+    "Belajar CSS/assets/btc-91.png",
+    "Belajar CSS/assets/btc-90.png",
+    "Belajar CSS/assets",
+    "Basis data/Select.md",
+    "Basis data/Ssdatabase.md",
+    "Tantangan.md",
+    "Basis data/Instalasi & Query awal data base.md",
+    "Basis data/SELECT LANJUTAN.md",
+    "Belajar CSS/GambarCSS.md",
+    "Belajar CSS/Gambar web font.md",
+    "Belajar CSS/Web font.md",
+    "Asetcss/57.md",
+    "Cihuy.md",
+    "Pengenalan nayah CSS-1.md",
+    "Asetwebfont/6..md",
+    "Asetcss/5.md",
+    "Asetcss",
+    "M.md",
+    "Asetwebfont",
+    "Belajar CSS/Asetwebfont",
+    "Basis data/Data base.md",
+    "Belajar CSS/Hi.md",
+    "O.md",
+    "Hasil.md",
+    "Belajar CSS/Belajar.md",
+    "Web font (google font-online&offline).md",
+    "d.loom",
     "asetcss",
     "Belajar CSS/AsetCSS",
     "Belajar CSS/File css",
     "Belajar CSS",
-    "ssdatabase",
-    "Basis data/Asetdatabase",
-    "Gambarhasilhtml",
-    "Belajar HTML/Gambarhasilhtml",
-    "Belajar HTML"
+    "ssdatabase"
   ]
 }

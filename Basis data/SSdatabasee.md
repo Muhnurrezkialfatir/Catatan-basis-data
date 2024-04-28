@@ -5,3 +5,4 @@
 ![[Usedata.jpg]]
 ![[Update.jpg]]
 ![[Delete.jpg]]
+![[Basis data/Asetdatabase/1.jpg]]

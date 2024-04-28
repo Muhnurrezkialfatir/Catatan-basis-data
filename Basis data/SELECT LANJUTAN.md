@@ -4,7 +4,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](Asetdatabase/1.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -15,7 +15,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](Asetdatabase/2.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -26,7 +26,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](asetdatabase/3.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -37,7 +37,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](asetdatabase/4.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -48,7 +48,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](asetdatabase/5.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -58,7 +58,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](asetdatabase/6.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
@@ -69,7 +69,7 @@
 ## CONTOH
 
 ## HASIL
-
+![250](asetdatabase/7.jpg)
 ## ANALISIS
 
 ## KESIMPULAN
