@@ -1849,7 +1849,25 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 # Tantangan Position
 ## Code
 ```html
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POSITION</title>
+    <link rel= "stylesheet" href="tantangan_position.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box"> 
+            <img class="item box-1" src="fatirr.jpg" alt="Gambar">
+            <p> <img class="icon" src="jempol.png"></p>
+            <p class="item box-2">Saturday, April 27, 2024</p>
+            <h1 class="item box-3">The standard chunk of <br>Lorem Ipsum</h1>
+            <p class="item box-4">Sed posuere consectetur est at lobortis.<br>Aeneen eu leo quam</p>
+            <p class="box-5"><b>Read more </b> <img class="item-1" src="lebihbesar.png"></p>
+        </div>
+    </div>
+</body>
+</html>
 ```
 
 ```css
@@ -1933,6 +1951,8 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
    border-radius: 1500px;
 }
 ```
+## Hasil
+![](Asetcss/70.jpg)
 ## Analisis
 1. `container`
 - `Position`: Posisi `static` adalah posisi default di CSS, yang berarti elemen akan muncul sesuai dengan alur dokumen normal.

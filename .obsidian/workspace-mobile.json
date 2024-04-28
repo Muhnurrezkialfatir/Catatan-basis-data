@@ -175,7 +175,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Instalasi & Query awal data base.md",
+                "file": "Belajar CSS/File CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md",
+            "file": "Belajar CSS/File CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md",
+            "file": "Belajar CSS/File CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -277,7 +277,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data base.md"
+            "file": "Belajar CSS/File CSS.md"
           }
         }
       },
@@ -306,10 +306,12 @@
   },
   "active": "36443d2616a2b8c0",
   "lastOpenFiles": [
-    "Basis data/Alter.md",
-    "Basis data/Instalasi & Query awal data base.md",
-    "Basis data/Select.md",
+    "Belajar CSS/GambarCSS.md",
+    "Belajar CSS/AsetCSS/70.jpg",
     "Belajar CSS/File CSS.md",
+    "Basis data/Instalasi & Query awal data base.md",
+    "Basis data/Alter.md",
+    "Basis data/Select.md",
     "Belajar CSS/CSS Responsivebaru.md",
     "Belajar CSS/assets/responsive-1.png",
     "Belajar CSS/assets/res-3.png",
@@ -322,12 +324,10 @@
     "Belajar CSS/assets/btc-93.png",
     "Belajar CSS/assets/btc-92.png",
     "Belajar CSS/assets/btc-91.png",
-    "Belajar CSS/assets/btc-90.png",
     "Belajar CSS/assets",
     "Basis data/Ssdatabase.md",
     "Tantangan.md",
     "Basis data/SELECT LANJUTAN.md",
-    "Belajar CSS/GambarCSS.md",
     "Belajar CSS/Gambar web font.md",
     "Belajar CSS/Web font.md",
     "Asetcss/57.md",
