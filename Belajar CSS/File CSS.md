@@ -1846,6 +1846,119 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 ### Kesimpulan
 `position: sticky` akan bergulir seperti normal hingga mencapai titik tertentu
 
+# Tantangan Position
+## Code
+```html
+
+```
+
+```css
+.container {
+    position: static;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 580px;
+    background-color: rgba(122, 122, 247, 0.628);
+}
+.box {
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+    align-self: center;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.item {
+    width: 100%;
+    color: black;
+}
+
+.box-1 {
+    height: 225px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+.box-2 {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-3 {
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-4 {
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.box-5 {
+    background-color: rgb(193, 193, 193);
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 90px ;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0px 0px 10px 10px;
+    font-size: small;
+}
+
+.item-1 {
+    width: 10px;
+    padding-left: 130px;
+}
+
+.icon {
+   background-color: skyblue;
+   position: relative;
+   left: 200px;
+   bottom: 35px;
+   width: 30px;
+   height: 30px;
+   border-radius: 1500px;
+}
+```
+## Analisis
+1. `container`
+- `Position`: Posisi `static` adalah posisi default di CSS, yang berarti elemen akan muncul sesuai dengan alur dokumen normal.
+- `Display`: `flex` mengaktifkan model layout flexbox, memungkinkan elemen anak untuk diatur dalam arah tertentu dan memberikan fleksibilitas dalam tata letak.
+- `Flex-direction:` `column` berarti elemen anak akan disusun secara vertikal.
+- `Width & Height: 100%` untuk lebar dan `580px` untuk tinggi, menunjukkan bahwa elemen ini mengambil seluruh lebar konten, tetapi memiliki tinggi tetap.
+- `Background-color:` Warna latar belakang diberi efek transparan dengan nilai RGBA, memberi efek transparansi (0.628).
+2. `box`
+- `Width & Height: 250px `lebar dan `350px` tinggi, ukuran ini menentukan ukuran dasar dari elemen `box`.
+- `Alignment: align-items `dan `align-content `keduanya berpusat pada tengah, yang berarti elemen dalam box diatur secara horizontal dan vertikal ke tengah.
+- `Border-radius:` Memberikan sudut membulat pada box.
+- `Margin: margin-top` dan `margin-bottom` memberikan ruang di bagian atas dan bawah `box`, menempatkannya di tengah secara vertikal dalam `container`.
+3. `item`
+- `Width & Color: 100% `lebar menunjukkan bahwa elemen ini akan mengambil seluruh lebar kontennya. Warna teks adalah hitam.
+4. `box-1 hingga .box-5`
+- Setiap elemen ini memiliki gaya spesifik:
+
+- `box-1`: Memiliki tinggi dan lebar penuh, dan sudut atas membulat.
+- `box-2, box-3, box-4`: Berbeda dalam ukuran font dan margin, menunjukkan teks dengan ukuran dan posisi yang bervariasi.
+- `box-5:` Bagian bawah dari `box`, dengan latar belakang abu-abu, radius bawah membulat, dan padding untuk ruang dalam.
+5. `icon`
+- `Position:` Menggunakan position: relative untuk menggeser elemen relatif terhadap posisi default-nya.
+- `Background-color: `Warna langit biru dengan radius bulat besar untuk tampilan bundar.
+- `Left & Bottom: `Mengatur posisi icon relatif terhadap sudut kanan bawah box.
+## Kesimpulan
+elemen utama (`container`), kotak konten (`box`), dan berbagai bagian dalam box (`seperti box-1 hingga box-5`). Flexbox digunakan untuk pengaturan tata letak, dan elemen-elemen memiliki radius sudut yang memberikan kesan visual yang lebih lembut. Atribut posisi dan margin membantu menempatkan elemen di tempat yang diinginkan dalam konteks tata letak halaman atau aplikasi web.
 # Pengenalan Bootstrap
 ## Apa Itu Bootstrap?
 Bootstrap adalah salah satu dari banyak framework front-end yang ada di web development. Framework-front end menyediakan serangkaian alat dan gaya bawaan untuk mempercepat proses pengembangan web dengan menyediakan komponen-komponen UI siap pakai dan sistem grid yang responsif. Bootstrap khususnya, terkenal dengan kemampuannya dalam menciptakan tata letak yang responsif dan komponen-komponen UI yang seragam.

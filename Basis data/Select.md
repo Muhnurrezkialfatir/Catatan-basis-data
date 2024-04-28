@@ -497,8 +497,17 @@ select DISTINCT(harga_rental) from mobil ORDER BY harga_rental desc;
 ### Hasil
 ![](Asetdatabase/26.jpg)
 ### Analisis
+- `SELECT DISTINCT(harga_rental)`: Bagian ini meminta data yang unik dari kolom `harga_rental `dalam tabel `mobil`. Artinya, jika ada nilai yang duplikat, hanya satu nilai yang akan diambil untuk setiap set nilai yang sama. Ini digunakan untuk memastikan bahwa hasil query ini hanya menampilkan nilai-nilai unik.
+- `FROM mobil`: Bagian ini menentukan tabel dari mana data diambil. Dalam hal ini, data diambil dari tabel bernama `mobil`.
+- `ORDER BY harga_rental DESC`: Bagian ini mengatur urutan hasil query berdasarkan kolom harga_rental dalam urutan menurun (dari yang terbesar ke yang terkecil). Dengan kata lain, hasilnya akan diurutkan sehingga nilai terbesar akan berada di bagian atas.
+1. Mengidentifikasi Harga Rental Tertinggi:
+- Dengan mengurutkan dalam urutan menurun, kita dapat dengan cepat mengidentifikasi harga rental tertinggi di dalam dataset.
+2. Mengidentifikasi Rentang Harga Rental:
+- Dengan melihat daftar harga yang unik, kita bisa mengetahui variasi harga rental dan rentang dari tertinggi ke terendah.
+3. Analisis Harga Rental Unik:
+- Karena menggunakan DISTINCT, query ini bisa membantu menemukan harga rental yang unik tanpa pengulangan, memberikan gambaran tentang berapa banyak variasi harga yang tersedia dalam tabel mobil.
 ### Kesimpulan
-
+query ini berguna untuk analisis harga rental yang unik dan untuk memahami rentang harga dalam tabel `mobil`, yang dapat digunakan untuk berbagai tujuan, seperti perbandingan harga, analisis pasar, atau pengambilan keputusan bisnis.
 # CONCAT,CONCAT_WA,AS
 ## Menggabungkan kolom tanpa pemisah
 ### Struktur 
@@ -594,6 +603,9 @@ WHERE pemilik = "Ibrahim";
 ini membuat view bernama `info_no_plat` yang menyaring data dari tabel `mobil` untuk hanya menampilkan mobil yang dimiliki oleh "Ibrahim", beserta beberapa kolom seperti `id_mobil, no_plat, pemilik, dan peminjam`. View ini memberikan cara yang mudah untuk melihat dan mengelola data tersebut.
 ## Menampilkan tabel virtual
 ### Struktur 
+```sql
+SELECT * FROM nama_table;
+```
 ### Contoh
 ```sql
 SELECT * FROM info_no_plat;
@@ -601,9 +613,18 @@ SELECT * FROM info_no_plat;
 ### Hasil
 ![](Asetdatabase/31.jpg)
 ### Analisis
-### Kesimpulan
+
+- `SELECT * FROM` : Merupakan query awal untuk menampilkan sebuah tabel virtual yang didalamnya berisikan kolom, di mana kolom tersebut menampung sebuah data.
+- `info_no_plat` nama dari tabel virtual.
+
+### kesimpulan
+
+Jika ingin menampilkan tabel virtual cukup dengan perintah SELECT * FROM.
 ## Menghapus tabel virtual
 ### Struktur 
+```sql
+DROP VIEW nama_table;
+```
 ### Contoh
 ```sql
 DROP VIEW info_no_plat;
@@ -611,7 +632,12 @@ DROP VIEW info_no_plat;
 ### Hasil
 ![](Asetdatabase/32.jpg)
 ### Analisis
-### Kesimpulan
+- `DROP VIEW` perintah query tersebut akan menghapus tabel virtual.
+- `info_no_plat` nama tabel virtual yang akan di hapus.
+
+### kesimpulan
+
+Jika ingin menghapus tabel virtual cukup dengan perintah DROP VIEW.
 
 
 # Tantangan
