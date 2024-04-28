@@ -175,7 +175,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar CSS/File CSS.md",
+                "file": "Basis data/Instalasi & Query awal data base.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar CSS/File CSS.md",
+            "file": "Basis data/Instalasi & Query awal data base.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar CSS/File CSS.md",
+            "file": "Basis data/Instalasi & Query awal data base.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -277,7 +277,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar CSS/File CSS.md"
+            "file": "Basis data/Instalasi & Query awal data base.md"
           }
         }
       },
@@ -306,6 +306,8 @@
   },
   "active": "36443d2616a2b8c0",
   "lastOpenFiles": [
+    "Basis data/Alter.md",
+    "Basis data/Instalasi & Query awal data base.md",
     "Basis data/Select.md",
     "Belajar CSS/File CSS.md",
     "Belajar CSS/CSS Responsivebaru.md",
@@ -314,7 +316,6 @@
     "Belajar CSS/assets/res-2.png",
     "Belajar CSS/CSS Responsive(1).md",
     "Belajar CSS/Bootstrap Framework.md",
-    "Basis data/Alter.md",
     "Belajar CSS/assets/laravel-7.png",
     "Belajar CSS/assets/btc-95.png",
     "Belajar CSS/assets/btc-94.png",
@@ -325,7 +326,6 @@
     "Belajar CSS/assets",
     "Basis data/Ssdatabase.md",
     "Tantangan.md",
-    "Basis data/Instalasi & Query awal data base.md",
     "Basis data/SELECT LANJUTAN.md",
     "Belajar CSS/GambarCSS.md",
     "Belajar CSS/Gambar web font.md",
