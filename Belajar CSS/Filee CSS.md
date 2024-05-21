@@ -19,7 +19,7 @@ Color: red;
 }
 ```
 ## Before
-![200](AsetCSS/A.JPG)
+![200](A1.jpg)
 
 ## After
 ![200](AsetCSS/H.jpg)
@@ -182,7 +182,7 @@ p{
 ```
 ### Hasil
 #### before
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 #### after
 ![200](AsetCSS/2.jpg)
 ### Kesimpulan
@@ -201,7 +201,7 @@ Jika ingin mengatur tata letak sebuah Text dalam website, kita bisa gunakan Prop
 ```
 ### Hasil
 #### Before
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 #### After
 ![200](AsetCSS/3.jpg)
 ### Kesimpulan
@@ -220,7 +220,7 @@ Text-decoration adalah fitur CSS yang digunakan untuk menambahkan dekorasi pada 
 ```
 ### Hasil
 #### Before
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 
 #### After
 ![200](AsetCSS/4.jpg)
@@ -237,7 +237,7 @@ text-indent: 100px;
 ```
 ### HASIL
 #### BEFORE
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 #### AFTER
 ![200](AsetCSS/18.jpg)
 ### ANALISIS
@@ -253,7 +253,7 @@ letter-spacing: 50px;
 ```
 ### HASIL
 #### BEFORE
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 #### AFTER
 ![200](AsetCSS/17.jpg)
 
@@ -291,7 +291,7 @@ word-spacing: 150px;
 ```
 ### HASIL
 #### BEFORE
-![200](71.jpg)
+![200](Belajar%20CSS/AsetCSS/1.jpg)
 #### AFTER
 ![200](AsetCSS/19.jpg)
 ### Kesimpulan

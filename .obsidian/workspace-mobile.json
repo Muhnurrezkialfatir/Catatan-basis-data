@@ -211,7 +211,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Belajar CSS/AsetCSS/54.jpg"
+                "file": "Belajar CSS/AsetCSS/1.jpg"
               }
             }
           }
@@ -282,7 +282,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar CSS/AsetCSS/54.jpg",
+            "file": "Belajar CSS/AsetCSS/1.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar CSS/AsetCSS/54.jpg",
+            "file": "Belajar CSS/AsetCSS/1.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -311,7 +311,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar CSS/AsetCSS/54.jpg"
+            "file": "Belajar CSS/AsetCSS/1.jpg"
           }
         }
       },
@@ -338,8 +338,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "2ec96712b43ee6ee",
+  "active": "3da45db2db5cb04a",
   "lastOpenFiles": [
+    "Belajar CSS/AsetCSS/54.jpg",
     "Belajar CSS/AsetCSS/55.jpg",
     "Belajar CSS/AsetCSS/63.png",
     "Belajar CSS/AsetCSS/64.jpg",
@@ -350,7 +351,6 @@
     "Belajar CSS/AsetCSS/75.jpg",
     "Belajar CSS/AsetCSS/77.jpg",
     "Belajar CSS/AsetCSS/76.jpg",
-    "Belajar CSS/AsetCSS/78.jpg",
     "Belajar CSS/Filee CSS.md",
     "Belajar CSS/GambarCSS.md",
     "Belajar CSS/Web font.md",
