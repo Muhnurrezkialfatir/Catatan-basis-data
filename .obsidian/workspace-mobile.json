@@ -209,9 +209,11 @@
             "id": "2ec96712b43ee6ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Belajar CSS/AsetCSS/A34.jpg"
+                "file": "Penting tdk penting/Fileee CSS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -282,7 +284,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar CSS/AsetCSS/A34.jpg",
+            "file": "Penting tdk penting/Fileee CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -299,7 +301,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar CSS/AsetCSS/A34.jpg",
+            "file": "Penting tdk penting/Fileee CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -311,7 +313,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar CSS/AsetCSS/A34.jpg"
+            "file": "Penting tdk penting/Fileee CSS.md"
           }
         }
       },
@@ -338,9 +340,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3da45db2db5cb04a",
+  "active": "2ec96712b43ee6ee",
   "lastOpenFiles": [
-    "Belajar CSS/Fileee CSS.md",
+    "Belajar CSS/Fileeee CSS.md",
+    "Belajar CSS/AsetCSS/A1.jpg",
+    "Belajar CSS/AsetCSS/A2.jpg",
+    "Penting tdk penting/Fileee CSS.md",
     "Belajar CSS/AsetCSS/A33.jpg",
     "Belajar CSS/AsetCSS/A32.jpg",
     "Belajar CSS/AsetCSS/A31.jpg",
@@ -349,8 +354,6 @@
     "Belajar CSS/AsetCSS/A28.jpg",
     "Belajar CSS/AsetCSS/A27.jpg",
     "Belajar CSS/AsetCSS/A26.jpg",
-    "Belajar CSS/AsetCSS/A25.jpg",
-    "Belajar CSS/AsetCSS/A24.jpg",
     "Penting tdk penting/Filee CSS.md",
     "Belajar CSS/GambarCSS.md",
     "Belajar CSS/SEMANTIC HTML.md",
@@ -376,7 +379,6 @@
     "Belajar CSS/CSS Responsive.md",
     "PHP/Catatan PHP.md",
     "Belajar CSS/Bootstrap Framework.md",
-    "Html/Pertemuan_1.md",
     "PHP/Asetphp",
     "PHP",
     "Belajar CSS/assets",
