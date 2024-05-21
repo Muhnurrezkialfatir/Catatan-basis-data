@@ -1124,28 +1124,67 @@ Dengan membuat view untuk kueri yang sering digunakan, Anda dapat menghindari pe
 # Agreasi
 ## Sum
 ### Struktur 
+```sql
+select SUM(nama_kolom) AS total
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select SUM(harga_rental) from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/34.jpg)
 ### Analisis
-
+- `SELECT`: Digunakan untuk mengambil data dari database.
+- `SUM(): `Fungsi agregat dalam SQL yang digunakan untuk menghitung jumlah nilai dalam kolom.
+- `harga_rental`: Ini adalah nama kolom yang ingin Anda hitung jumlahnya.
+- `FROM mobil:` Menentukan tabel dari mana Anda ingin mengambil datanya, dalam hal ini, tabel bernama `mobil`.
 ### Kesimpulan
+Kesimpulan dari pernyataan `SQL SELECT ``SUM(harga_rental)`` FROM mobil;` adalah bahwa Anda ingin menghitung jumlah total `harga_rental` dari semua mobil yang ada dalam tabel mobil.
 
 ## Count
 ### Struktur 
+```sql
+select Count(*) AS jumlah
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Count(Peminjam) from mobil;
+```
+```sql
+select Count(pemilik) from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/35.jpg)
 ### Analisis
+#### pemilik
 
+- `select :`Kata kunci ini digunakan untuk mengambil data dari database.
+- `COUNT() :` Ini adalah fungsi agregat yang menghitung jumlah baris yang dikembalikan oleh kueri. Dalam hal ini, ia akan menghitung jumlah nilai bukan nol pada kolom `pemilik`.
+- `pemilik` : Ini nama kolomnya. Fungsi ini `COUNT()`akan menghitung jumlah nilai bukan nol di kolom ini.
+- `FROM mobil : `Ini menentukan tabel dari mana data akan diambil. Dalam hal ini, itu adalah tabel `mobil`. peminjam
+- `SELECT`: Kata kunci ini digunakan untuk mengambil data dari database.
+- `COUNT(peminjam)`: Fungsi ini menghitung jumlah nilai bukan nol pada kolom yang ditentukan, dalam hal ini, `peminjam`.
+- `FROM mobil`: Ini menentukan tabel untuk mengambil data, dalam hal ini, tabel bernama `mobil`.
 ### Kesimpulan
+pemilik Kesimpulan dari `SELECT COUNT(pemilik) FROM mobil;` adalah bahwa Anda ingin menghitung jumlah entri unik dalam kolom `pemilik` dari tabel `mobil`.
+
+peminjam Kesimpulan dari `SELECT COUNT(peminjam) FROM mobil; `adalah bahwa Anda ingin menghitung jumlah entri unik dalam kolom `peminjam` dari tabel `mobil`. Hasilnya akan memberikan jumlah `peminjam` `mobil` yang terdaftar dalam tabel.
 
 ## Min
 ### Struktur 
+```sql
+select Min(nama_kolom) AS nilai_minimum
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Min(harga_rental) AS minimal from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/38.jpg)
 
@@ -1155,8 +1194,15 @@ Dengan membuat view untuk kueri yang sering digunakan, Anda dapat menghindari pe
 
 ## Max
 ### Struktur 
+```sql
+select Max(nama_kolom) AS nilai_maksimal
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Max(harga_rental) AS maximal from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/39.jpg)
 ### Analisis
@@ -1165,64 +1211,22 @@ Dengan membuat view untuk kueri yang sering digunakan, Anda dapat menghindari pe
 
 ## Avg
 ### Struktur 
+```sql
+select avg(nama_kolom) AS nilai_rata-rata
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select AVG(harga_rental) AS RATA_RATA from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/40.jpg)
 ### Analisis
 
 ### Kesimpulan
 
-# Alter
-# Menambahkan kolom
-## Struktur
-```sql
-```
-## Contoh
-```sql
-alter TABLE mobil ADD batas_peminjaman varchar(10) AFTER peminjam;
-```
-## Hasil
-### Before
 
-
-### After
-
-
-## Analisis
-
-
-## Kesimpulan
-
-
-# Mengubah nama kolom
-## Struktur
-```sql
-```
-## Contoh
-```sql
-
-```
-## Hasil
-### Before
-
-
-### After
-
-
-## Analisis
-
-## Kesimpulan
-
-# Mengubah tipe data kolom
-## Struktur
-
-## Contoh
-## Hasil
-### Before
-
-
-### After
 
 
 ## Analisis

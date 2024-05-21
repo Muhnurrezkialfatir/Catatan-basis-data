@@ -124,7 +124,8 @@ Kesimpulan dari  `"SELECT * FROM mobil WHERE harga_rental <> 50000;"` adalah bah
 ## Tantangan
 ### Struktur
 ```mysql
-SELECT * FROM akun;
+SELECT [nama_kolom] FROM [nama_tabel]
+WHERE [nama_kolom] = [nilai];
 ```
 ### Contoh
 ```mysql
@@ -454,19 +455,26 @@ select * from mobil ORDER BY peminjam  desc;
 - Kesimpulannya, hasil query akan mengembalikan semua baris dari tabel "mobil" dengan urutan berdasarkan kolom "peminjam" dari nilai terbesar ke terkecil.
 
 ## Membatasi data yang tampil
-## Struktur
+### Struktur Query
+```sql
+SELECT * FROM [nama_tabel]    WHERE [nama_kolom] = [nilai] ORDER BY         [nama_kolom] ASC LIMIT [nilai];
+```
+### Contoh
 
-## Contoh
-## Hasil
-### Before
-
-
-### After
-
-
-## Analisis
-
-## Kesimpulan
+```sql
+SELECT * FROM mobil 
+WHERE warna = 'Hitam' ORDER BY
+```
+### Hasil
+![](Asetdatabase/43.jpg)
+### Analisis
+- `SELECT * FROM : `Merupakan query awal untuk menampilkan sebuah tabel yang didalamnya berisikan kolom, di mana kolom tersebut menampung sebuah data.
+- `mobil` nama dari tabel yang ingin kita tampilkan data-data nya.
+- `WHERE warna = 'Hitam' `Memilih hanya baris-baris di mana nilai kolom warna adalah `'Hitam'.`
+- `ORDER BY harga_rental ASC` Mengurutkan baris-baris tersebut berdasarkan kolom harga_rental secara menaik (dari harga rental terendah ke tertinggi).
+- `LIMIT 2 `Membatasi hasil query untuk hanya menampilkan 2 baris pertama yang memenuhi kondisi warna hitam dan diurutkan berdasarkan harga rental.
+### Kesimpulan
+Perintah SQL tersebut mengambil data `mobil` berwarna `hitam` dengan `harga_rental` terendah, hanya menampilkan 2 hasil teratas.
 # DISTINCT
 ## DISTINCT
 ### Struktur 
@@ -694,51 +702,121 @@ Dengan membuat view untuk kueri yang sering digunakan, Anda dapat menghindari pe
 # Agreasi
 ## Sum
 ### Struktur 
+```sql
+select SUM(nama_kolom) AS total
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select SUM(harga_rental) from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/34.jpg)
 ### Analisis
-
+- `SELECT`: Digunakan untuk mengambil data dari database.
+- `SUM(): `Fungsi agregat dalam SQL yang digunakan untuk menghitung jumlah nilai dalam kolom.
+- `harga_rental`: Ini adalah nama kolom yang ingin Anda hitung jumlahnya.
+- `FROM mobil:` Menentukan tabel dari mana Anda ingin mengambil datanya, dalam hal ini, tabel bernama `mobil`.
 ### Kesimpulan
+Kesimpulan dari pernyataan `SQL SELECT ``SUM(harga_rental)`` FROM mobil;` adalah bahwa Anda ingin menghitung jumlah total `harga_rental` dari semua mobil yang ada dalam tabel mobil.
 
 ## Count
 ### Struktur 
+```sql
+select Count(*) AS jumlah
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Count(Peminjam) from mobil;
+```
+```sql
+select Count(pemilik) from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/35.jpg)
 ### Analisis
+#### pemilik
 
+- `select :`Kata kunci ini digunakan untuk mengambil data dari database.
+- `COUNT() :` Ini adalah fungsi agregat yang menghitung jumlah baris yang dikembalikan oleh kueri. Dalam hal ini, ia akan menghitung jumlah nilai bukan nol pada kolom `pemilik`.
+- `pemilik` : Ini nama kolomnya. Fungsi ini `COUNT()`akan menghitung jumlah nilai bukan nol di kolom ini.
+- `FROM mobil : `Ini menentukan tabel dari mana data akan diambil. Dalam hal ini, itu adalah tabel `mobil`. peminjam
+- `SELECT`: Kata kunci ini digunakan untuk mengambil data dari database.
+- `COUNT(peminjam)`: Fungsi ini menghitung jumlah nilai bukan nol pada kolom yang ditentukan, dalam hal ini, `peminjam`.
+- `FROM mobil`: Ini menentukan tabel untuk mengambil data, dalam hal ini, tabel bernama `mobil`.
 ### Kesimpulan
+pemilik Kesimpulan dari `SELECT COUNT(pemilik) FROM mobil;` adalah bahwa Anda ingin menghitung jumlah entri unik dalam kolom `pemilik` dari tabel `mobil`.
+
+peminjam Kesimpulan dari `SELECT COUNT(peminjam) FROM mobil; `adalah bahwa Anda ingin menghitung jumlah entri unik dalam kolom `peminjam` dari tabel `mobil`. Hasilnya akan memberikan jumlah `peminjam` `mobil` yang terdaftar dalam tabel.
 
 ## Min
 ### Struktur 
+```sql
+select Min(nama_kolom) AS nilai_minimum
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Min(harga_rental) AS minimal from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/38.jpg)
 
 ### Analisis
-
+- `SELECT` digunakan untuk mengambil/menampilkan data.
+- `MIN `digunakan untuk menampilkan nilai numerik terendah dalam suatu kolom.
+- `harga_rental` nama kolom yang ingin kita tampilkan nilai terendahnya.
+- `AS minima` sebagai nama alias kolom
+- FROM mobil query tersebut akan mengambil data dari tabel mobil.
 ### Kesimpulan
+`MIN` digunakan untuk menampilkan nilai terendah dari suatu kolom.lan
 
 ## Max
 ### Struktur 
+```sql
+select Max(nama_kolom) AS nilai_maksimal
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select Max(harga_rental) AS maximal from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/39.jpg)
 ### Analisis
-
+- `SELECT` digunakan untuk mengambil/menampilkan data.
+- `MAX` digunakan untuk menampilkan nilai numerik tertinggi dalam suatu kolom
+- `harga_rental` nama kolom yang ingin kita tampilkan nilai tertinggi nya.
+- `AS` maximun sebagai nama alias kolom
+- `FROM` mobil query tersebut akan mengambil data dari tabel mobil.
 ### Kesimpulan
+`MAX` digunakan untuk menampilkan nilai numerik tertinggi dari suatu kolom.
 
 ## Avg
 ### Struktur 
+```sql
+select avg(nama_kolom) AS nilai_rata-rata
+From nama_table
+Where kondisi_opsional;
+```
 ### Contoh 
-
+```sql
+select AVG(harga_rental) AS RATA_RATA from mobil;
+```
 ### Hasil 
 ![](Asetdatabase/40.jpg)
 ### Analisis
-
+- `SELECT` digunakan untuk mengambil/menampilkan data.
+- `AVG` digunakan untuk menghitung rata-rata dari nilai numerik yang ada pada kolom
+- `harga_rental` nama kolom yang ingin kita tampilkan nilai tertinggi nya.
+- `AS rerata` sebagai nama alias kolom
+- `FROM mobil` query tersebut akan mengambil data dari tabel mobil.
 ### Kesimpulan
+
+`AVG` digunakan untuk menghitung rata-rata dari nilai numerik pada suatu kolom.
+

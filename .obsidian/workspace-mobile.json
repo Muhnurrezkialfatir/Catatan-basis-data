@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/SELECT LANJUTAN.md",
+                "file": "Penting tdk penting/SELECT LANJUTAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar CSS/File CSS.md",
+                "file": "Penting tdk penting/File CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web font (google font-online&offline).md",
+                "file": "Penting tdk penting/Web font (google font-online&offline).md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar CSS/File CSS.md",
+                "file": "Penting tdk penting/File CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Instalasi & Query awal data base.md",
+                "file": "Penting tdk penting/Instalasi & Query awal data base.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web font (google font-online&offline).md",
+                "file": "Penting tdk penting/Web font (google font-online&offline).md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M.md",
+                "file": "Penting tdk penting/M.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,14 +175,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar CSS/File CSS.md",
+                "file": "Penting tdk penting/File CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd83023bdac6b571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Catatan PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73dcfbde81c1c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penting tdk penting/Alter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec96712b43ee6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Alterr.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -248,7 +284,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar CSS/File CSS.md",
+            "file": "Basis data/Alterr.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -265,7 +301,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar CSS/File CSS.md",
+            "file": "Basis data/Alterr.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -277,7 +313,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar CSS/File CSS.md"
+            "file": "Basis data/Alterr.md"
           }
         }
       },
@@ -304,52 +340,52 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "36443d2616a2b8c0",
+  "active": "2ec96712b43ee6ee",
   "lastOpenFiles": [
-    "Belajar CSS/GambarCSS.md",
-    "Belajar CSS/AsetCSS/70.jpg",
-    "Belajar CSS/File CSS.md",
-    "Basis data/Instalasi & Query awal data base.md",
-    "Basis data/Alter.md",
     "Basis data/Select.md",
-    "Belajar CSS/CSS Responsivebaru.md",
-    "Belajar CSS/assets/responsive-1.png",
-    "Belajar CSS/assets/res-3.png",
-    "Belajar CSS/assets/res-2.png",
-    "Belajar CSS/CSS Responsive(1).md",
-    "Belajar CSS/Bootstrap Framework.md",
-    "Belajar CSS/assets/laravel-7.png",
-    "Belajar CSS/assets/btc-95.png",
-    "Belajar CSS/assets/btc-94.png",
-    "Belajar CSS/assets/btc-93.png",
-    "Belajar CSS/assets/btc-92.png",
-    "Belajar CSS/assets/btc-91.png",
-    "Belajar CSS/assets",
     "Basis data/Ssdatabase.md",
-    "Tantangan.md",
-    "Basis data/SELECT LANJUTAN.md",
-    "Belajar CSS/Gambar web font.md",
+    "Basis data/Asetdatabase/52.jpg",
+    "Basis data/Asetdatabase/51.jpg",
+    "Basis data/Alterr.md",
+    "Basis data/Data base.md",
+    "Basis data/Asetdatabase/50.jpg",
+    "Basis data/Asetdatabase/49.jpg",
+    "Basis data/Pengertian basis data.md",
+    "Basis data/Instalasi & Query awal data basee.md",
+    "Penting tdk penting/Instalasi & Query awal data base.md",
+    "Basis data/Asetdatabase/48.jpg",
+    "Basis data/Asetdatabase/47.jpg",
+    "Basis data/Asetdatabase/46.jpg",
+    "Basis data/Ssdatabase 1.md",
+    "Basis data/Asetdatabase/45.jpg",
+    "Basis data/Asetdatabase/4.jpg",
+    "Basis data/Asetdatabase/5.jpg",
+    "Penting tdk penting/Alter.md",
+    "Belajar CSS/CSS Responsivebaru.md",
+    "Penting tdk penting/Hi.md",
+    "Belajar CSS/Filee CSS.md",
+    "Penting tdk penting/Tantangan.md",
+    "Basis data/Tantangan 7 nomor.md",
+    "Penting tdk penting",
     "Belajar CSS/Web font.md",
-    "Asetcss/57.md",
-    "Cihuy.md",
-    "Pengenalan nayah CSS-1.md",
-    "Asetwebfont/6..md",
+    "Penting tdk penting/File CSS.md",
+    "Penting tdk penting/SELECT LANJUTAN.md",
+    "Penting tdk penting/Asetdatabase.md",
+    "Belajar CSS/Belajar.md",
+    "Belajar CSS/CSS Responsive.md",
+    "PHP/Catatan PHP.md",
+    "Belajar CSS/Bootstrap Framework.md",
+    "Html/Pertemuan_1.md",
+    "PHP/Gambar PhP.md",
     "Asetcss/5.md",
+    "PHP/Asetphp",
+    "PHP",
+    "Belajar CSS/assets",
     "Asetcss",
-    "M.md",
     "Asetwebfont",
     "Belajar CSS/Asetwebfont",
-    "Basis data/Data base.md",
-    "Belajar CSS/Hi.md",
-    "O.md",
-    "Hasil.md",
-    "Belajar CSS/Belajar.md",
-    "Web font (google font-online&offline).md",
-    "d.loom",
+    "Penting tdk penting/d.loom",
     "asetcss",
-    "Belajar CSS/AsetCSS",
-    "Belajar CSS/File css",
-    "Belajar CSS",
-    "ssdatabase"
+    "Belajar CSS/AsetCSS"
   ]
 }
