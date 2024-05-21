@@ -209,11 +209,9 @@
             "id": "2ec96712b43ee6ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Basis data/Alterr.md",
-                "mode": "source",
-                "source": false
+                "file": "Belajar CSS/AsetCSS/54.jpg"
               }
             }
           }
@@ -284,7 +282,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Alterr.md",
+            "file": "Belajar CSS/AsetCSS/54.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -301,7 +299,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Alterr.md",
+            "file": "Belajar CSS/AsetCSS/54.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -313,7 +311,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Alterr.md"
+            "file": "Belajar CSS/AsetCSS/54.jpg"
           }
         }
       },
@@ -342,32 +340,34 @@
   },
   "active": "2ec96712b43ee6ee",
   "lastOpenFiles": [
-    "Basis data/Select.md",
+    "Belajar CSS/AsetCSS/55.jpg",
+    "Belajar CSS/AsetCSS/63.png",
+    "Belajar CSS/AsetCSS/64.jpg",
+    "Belajar CSS/AsetCSS/65.jpg",
+    "Belajar CSS/AsetCSS/66.jpg",
+    "Belajar CSS/AsetCSS/90.jpg",
+    "Belajar CSS/AsetCSS/74.jpg",
+    "Belajar CSS/AsetCSS/75.jpg",
+    "Belajar CSS/AsetCSS/77.jpg",
+    "Belajar CSS/AsetCSS/76.jpg",
+    "Belajar CSS/AsetCSS/78.jpg",
+    "Belajar CSS/Filee CSS.md",
+    "Belajar CSS/GambarCSS.md",
+    "Belajar CSS/Web font.md",
+    "Belajar CSS/CSS Responsivebaru.md",
     "Basis data/Ssdatabase.md",
-    "Basis data/Asetdatabase/52.jpg",
-    "Basis data/Asetdatabase/51.jpg",
+    "Basis data/Select.md",
     "Basis data/Alterr.md",
     "Basis data/Data base.md",
-    "Basis data/Asetdatabase/50.jpg",
-    "Basis data/Asetdatabase/49.jpg",
     "Basis data/Pengertian basis data.md",
     "Basis data/Instalasi & Query awal data basee.md",
     "Penting tdk penting/Instalasi & Query awal data base.md",
-    "Basis data/Asetdatabase/48.jpg",
-    "Basis data/Asetdatabase/47.jpg",
-    "Basis data/Asetdatabase/46.jpg",
     "Basis data/Ssdatabase 1.md",
-    "Basis data/Asetdatabase/45.jpg",
-    "Basis data/Asetdatabase/4.jpg",
-    "Basis data/Asetdatabase/5.jpg",
     "Penting tdk penting/Alter.md",
-    "Belajar CSS/CSS Responsivebaru.md",
     "Penting tdk penting/Hi.md",
-    "Belajar CSS/Filee CSS.md",
     "Penting tdk penting/Tantangan.md",
     "Basis data/Tantangan 7 nomor.md",
     "Penting tdk penting",
-    "Belajar CSS/Web font.md",
     "Penting tdk penting/File CSS.md",
     "Penting tdk penting/SELECT LANJUTAN.md",
     "Penting tdk penting/Asetdatabase.md",
@@ -377,7 +377,6 @@
     "Belajar CSS/Bootstrap Framework.md",
     "Html/Pertemuan_1.md",
     "PHP/Gambar PhP.md",
-    "Asetcss/5.md",
     "PHP/Asetphp",
     "PHP",
     "Belajar CSS/assets",

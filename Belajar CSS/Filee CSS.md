@@ -182,7 +182,7 @@ p{
 ```
 ### Hasil
 #### before
-![200](AsetCSS/1.JPG)
+![200](71.jpg)
 #### after
 ![200](AsetCSS/2.jpg)
 ### Kesimpulan
@@ -201,7 +201,7 @@ Jika ingin mengatur tata letak sebuah Text dalam website, kita bisa gunakan Prop
 ```
 ### Hasil
 #### Before
-![200](AsetCSS/1.jpg)
+![200](71.jpg)
 #### After
 ![200](AsetCSS/3.jpg)
 ### Kesimpulan
@@ -220,7 +220,7 @@ Text-decoration adalah fitur CSS yang digunakan untuk menambahkan dekorasi pada 
 ```
 ### Hasil
 #### Before
-![200](AsetCSS/1.jpg)
+![200](71.jpg)
 
 #### After
 ![200](AsetCSS/4.jpg)
@@ -237,7 +237,7 @@ text-indent: 100px;
 ```
 ### HASIL
 #### BEFORE
-![200](AsetCSS/1.jpg)
+![200](71.jpg)
 #### AFTER
 ![200](AsetCSS/18.jpg)
 ### ANALISIS
@@ -253,7 +253,7 @@ letter-spacing: 50px;
 ```
 ### HASIL
 #### BEFORE
-![200](AsetCSS/1.jpg)
+![200](71.jpg)
 #### AFTER
 ![200](AsetCSS/17.jpg)
 
@@ -291,7 +291,7 @@ word-spacing: 150px;
 ```
 ### HASIL
 #### BEFORE
-![200](AsetCSS/1.jpg)
+![200](71.jpg)
 #### AFTER
 ![200](AsetCSS/19.jpg)
 ### Kesimpulan
@@ -377,8 +377,7 @@ background-attachment dalam CSS adalah properti yang digunakan untuk mengontrol 
 </html>
 ```
 ### Hasil
-![](Asetcss/35.jpg)
-
+![](asetcss/72.jpg)
 ### Kesimpulan
 background-attachment dalam CSS adalah properti yang mengontrol apakah gambar latar belakang akan tetap diam atau bergulir bersamaan dengan konten saat pengguna menggulir halaman.
 ## Background-size
@@ -464,9 +463,9 @@ Font style Property CSS yang digunakan untuk menentukan gaya penulisan Text. Beb
 
 ### Hasil
 #### Before
-![](Asetcss/36.jpg)
+![](74.jpg)
 #### After
-![](Asetcss/37.jpg)
+![](73.jpg)
 ### Kesimpulan
 Font style Property CSS yang digunakan untuk menentukan gaya penulisan Text.
 ## Font-weight
@@ -502,9 +501,9 @@ Beberapa contoh property value nya :
 
 ### Hasil
 #### Before
-![](Asetcss/36.jpg)
+![](74.jpg)
 #### After
-![](Asetcss/38.jpg)
+![](75.jpg)
 ### Kesimpulan
 Font-weight digunakan untuk mengatur pada suatu Text dalam elemen html.
 ## Font-family
@@ -533,9 +532,9 @@ Font family Property CSS yang digunakan untuk menentukan jenis font atau kumpula
 
 ### Hasil
 #### Before
-![](Asetcss/36.jpg)
+![](74.jpg)
 #### After
-![](Asetcss/39.jpg)
+![](76.jpg)
 ### Kesimpulan
 Font-family digunakan jika ingin merubah font default pada elemen html.
 # Tantangan Box model
@@ -569,7 +568,7 @@ img {
 }
 ```
 ## Hasil
-![200](AsetCSS/67.jpg)
+![200](80.jpg)
 ## Kesimpulan
 1. `body`:
 - Warna latar belakang diatur menjadi ungu (`background-color: purple`).
@@ -764,7 +763,7 @@ Link Pseudo Class yang digunakan untuk memberikan gaya pada elemen/link yang bel
 ```
 
 ### Hasil
-![](Asetcss/44.jpg)
+![](79.jpg)
 ### Kesimpulan
 Jadi fungsi dari Pseudo Class link ini memberikan gaya pada tautan yang belum dikunjungi.
 
@@ -803,9 +802,9 @@ trasition-timing-function menentukan bagaimana kecepatan perubahan nilai propert
 ```
 ### Hasil
 Before
-![](Asetcss/46.jpg)
+![](78.jpg)
 After
-![](Asetcss/45.jpg)
+![](77.jpg)
 ### Kesimpulan
 Transition Property CSS yang digunakan untuk memberikan efek perubahan secara halus dalam sebuah elemen html.
 # Tantangan Transition
@@ -874,9 +873,9 @@ img {
 ```
 ### Hasil
 Before
-![](Asetcss/67.jpg)
+![](80.jpg)
 After
-![](Asetcss/68.jpg)
+![](81.jpg)
 ### Kesimpulan
 1. `body`:
 - Warna latar belakang diatur menjadi ungu (`background-color: purple`).
@@ -926,9 +925,9 @@ digunakan untuk mengubah tampilan suatu elemen, seperti memindahkannya, memutari
 ```
 ### Hasil
 BEFORE
-![](Asetcss/56.jpg)
+![](82.jpg)
 AFTER
-![](Asetcss/57.jpg)
+![](83.jpg)
 ### Kesimpulan
 Efek hover ini mengubah ukuran tombol dan warna saat kursor mouse ditempatkan di atasnya, memberikan interaksi visual yang menarik bagi pengguna. 
 ## ScaleX
@@ -962,9 +961,9 @@ Efek hover ini mengubah ukuran tombol dan warna saat kursor mouse ditempatkan di
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
-![](Asetcss/59.jpg)
+![](85.jpg)
 ### Kesimpulan
 Efek ini memberikan umpan balik visual yang menarik dan responsif kepada pengguna, dengan perubahan warna, ukuran, dan bentuk ketika tombol di-hover. Dalam hal ini, tombol akan terlihat lebih ramping secara horizontal ketika di-hover karena transformasi skala X.
 ## Rotate
@@ -997,9 +996,9 @@ Efek ini memberikan umpan balik visual yang menarik dan responsif kepada penggun
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
-![](Asetcss/60.jpg)
+![](86.jpg)
 ### Kesimpulan
 Dengan efek `hover` ini, tombol memberikan umpan balik visual yang menarik dengan perubahan warna, ukuran, dan rotasi ketika kursor mouse berada di atasnya. Perubahan rotasi 45 derajat menambah dimensi unik pada interaksi, sehingga tombol akan terlihat miring saat di-hover.
 
@@ -1034,9 +1033,9 @@ Dengan efek `hover` ini, tombol memberikan umpan balik visual yang menarik denga
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
-![](Asetcss/61.jpg)
+![](87.jpg)
 ### Kesimpulan
 Efek hover ini menghasilkan umpan balik visual yang menarik karena perubahan warna, ukuran, dan bentuk tombol saat kursor mouse berada di atasnya. Perubahan `skewX(30deg)` memberikan tampilan miring pada tombol, sehingga tombol terlihat lebih miring atau terdistorsi ke samping.
 ## Skew
@@ -1069,9 +1068,9 @@ Efek hover ini menghasilkan umpan balik visual yang menarik karena perubahan war
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
-![](Asetcss/62.jpg)
+![](88.jpg)
 ### Kesimpulan
 `hover` dapat menciptakan efek interaktif ketika pengguna berinteraksi dengan elemen pada halaman web. Dengan mengubah ukuran, warna, dan transformasi pada elemen tombol, kode ini memberikan umpan balik visual yang menarik bagi pengguna.
 
@@ -1105,7 +1104,7 @@ After
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
 ![](Asetcss/63.png)
 ### Kesimpulan
@@ -1142,7 +1141,7 @@ After
 ```
 ### Hasil
 Before
-![](Asetcss/58.jpg)
+![](84.jpg)
 After
 ![](Asetcss/64.jpg)
 ### kesimpulan
@@ -1755,7 +1754,7 @@ img {
 
 ```
 ### Hasil
-![](Asetcss/69.jpg)
+![](90.jpg)
 ### Kesimpulan
 1. `body`:
 - Latar belakang diatur menjadi warna ungu (`Background-color: Purple`).
@@ -1952,7 +1951,7 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 }
 ```
 ## Hasil
-![](Asetcss/70.jpg)
+![](89.jpg)
 ## Analisis
 1. `container`
 - `Position`: Posisi `static` adalah posisi default di CSS, yang berarti elemen akan muncul sesuai dengan alur dokumen normal.
