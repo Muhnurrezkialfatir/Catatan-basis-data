@@ -211,7 +211,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Belajar CSS/AsetCSS/1.jpg"
+                "file": "Belajar CSS/AsetCSS/A34.jpg"
               }
             }
           }
@@ -282,7 +282,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Belajar CSS/AsetCSS/1.jpg",
+            "file": "Belajar CSS/AsetCSS/A34.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Belajar CSS/AsetCSS/1.jpg",
+            "file": "Belajar CSS/AsetCSS/A34.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -311,7 +311,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Belajar CSS/AsetCSS/1.jpg"
+            "file": "Belajar CSS/AsetCSS/A34.jpg"
           }
         }
       },
@@ -340,19 +340,20 @@
   },
   "active": "3da45db2db5cb04a",
   "lastOpenFiles": [
-    "Belajar CSS/AsetCSS/54.jpg",
-    "Belajar CSS/AsetCSS/55.jpg",
-    "Belajar CSS/AsetCSS/63.png",
-    "Belajar CSS/AsetCSS/64.jpg",
-    "Belajar CSS/AsetCSS/65.jpg",
-    "Belajar CSS/AsetCSS/66.jpg",
-    "Belajar CSS/AsetCSS/90.jpg",
-    "Belajar CSS/AsetCSS/74.jpg",
-    "Belajar CSS/AsetCSS/75.jpg",
-    "Belajar CSS/AsetCSS/77.jpg",
-    "Belajar CSS/AsetCSS/76.jpg",
-    "Belajar CSS/Filee CSS.md",
+    "Belajar CSS/Fileee CSS.md",
+    "Belajar CSS/AsetCSS/A33.jpg",
+    "Belajar CSS/AsetCSS/A32.jpg",
+    "Belajar CSS/AsetCSS/A31.jpg",
+    "Belajar CSS/AsetCSS/A30.jpg",
+    "Belajar CSS/AsetCSS/A29.jpg",
+    "Belajar CSS/AsetCSS/A28.jpg",
+    "Belajar CSS/AsetCSS/A27.jpg",
+    "Belajar CSS/AsetCSS/A26.jpg",
+    "Belajar CSS/AsetCSS/A25.jpg",
+    "Belajar CSS/AsetCSS/A24.jpg",
+    "Penting tdk penting/Filee CSS.md",
     "Belajar CSS/GambarCSS.md",
+    "Belajar CSS/SEMANTIC HTML.md",
     "Belajar CSS/Web font.md",
     "Belajar CSS/CSS Responsivebaru.md",
     "Basis data/Ssdatabase.md",
@@ -376,7 +377,6 @@
     "PHP/Catatan PHP.md",
     "Belajar CSS/Bootstrap Framework.md",
     "Html/Pertemuan_1.md",
-    "PHP/Gambar PhP.md",
     "PHP/Asetphp",
     "PHP",
     "Belajar CSS/assets",
