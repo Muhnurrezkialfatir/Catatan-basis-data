@@ -642,6 +642,265 @@ var_dump($hobi);
 ## Kesimpulan
 Fungsi `var_dump()` sangat berguna untuk debugging dan pemahaman mendalam tentang variabel dalam kode PHP. Dengan menggunakan `var_dump()`, kita dapat melihat tipe data dari variabel, nilai-nilai yang disimpan di dalamnya, serta struktur dan ukuran dari array dan objek. Ini membantu kita dalam mengidentifikasi masalah dan memahami bagaimana data disimpan dan diakses dalam program kita. Dalam konteks debugging, `var_dump()` adalah alat yang sangat berguna untuk menganalisis variabel dengan lebih mendalam.
 
+```
+#### Kode Program
+```php
+for ($i = 1; $i <= 5; $i++) { 
+echo "Nomor: $i <br>"; 
+}
+```
+
+### Hasil
+![](aset/php15.png)
+
+
+
+
+#### Analisis
+
+- Baris 1: Inisialisasi variabel `$i` dengan nilai 1.
+- Baris 2: Kondisi, loop akan terus berjalan selama `$i` kurang dari atau sama dengan 5.
+- Baris 3: Setiap iterasi, nilai `$i` akan bertambah satu.
+- Baris 4: Mencetak nomor dari 1 sampai 5.
+#### Kesimpulan Program
+
+Program akan mencetak nomor dari 1 sampai 5.
+
+### While
+
+#### Penjelasan
+
+While loop digunakan untuk mengulang blok kode selama kondisi tertentu bernilai true. Ini berguna ketika jumlah iterasi tidak diketahui sebelumnya.
+
+#### Struktur program
+```php
+while (kondisi) {  
+// blok kode yang akan diulang 
+}
+```
+##### Kode Program
+```php
+$i = 1; 
+while ($i <= 5) {
+echo "Nomor: $i <br>";  
+$i++; 
+}
+```
+
+### Hasil![](aset/php15.png)
+
+
+#### Analisis
+
+- Baris 1: Mendeklarasikan variabel `$i` dengan nilai 1.
+- Baris 2: Loop akan terus berjalan selama nilai `$i` kurang dari atau sama dengan 5.
+- Baris 3: Mencetak nomor dari 1 sampai 5.
+- Baris 4: Setiap iterasi, nilai `$i` akan bertambah satu.
+#### Kesimpulan Program
+
+Program akan mencetak nomor dari 1 sampai 5.
+
+### Do-While
+
+#### Penjelasan
+
+Do-While loop mirip dengan While loop, namun perbedaannya adalah Do-While loop akan menjalankan blok kode setidaknya sekali, bahkan jika kondisi tidak terpenuhi.
+
+#### Struktur program
+```php
+do {     
+// blok kode yang akan diulang 
+} 
+while (kondisi);
+```
+#### Kode Program
+```php
+$i = 1; do {     
+echo "Nomor: $i <br>"; 
+$i++; } 
+while ($i <= 5);
+```
+
+### Hasil
+![](aset/php15.png)
+
+
+#### Analisis
+
+- Baris 1: Mendeklarasikan variabel `$i` dengan nilai 1.
+- Baris 2-4: Mencetak nomor dari 1 sampai 5. Walaupun kondisi tidak terpenuhi, blok kode akan dijalankan sekali karena sifat Do-While loop.
+#### Kesimpulan Program
+
+Program akan mencetak nomor dari 1 sampai 5.
+
+### Foreach
+
+#### Penjelasan
+
+Foreach loop digunakan untuk mengulang elemen-elemen dalam sebuah array. Loop ini berguna untuk mengakses setiap nilai dalam array tanpa harus mengkhawatirkan indeksnya.
+
+#### Struktur program
+```php
+foreach ($array as $nilai) {  
+// blok kode yang akan diulang 
+}
+```
+#### Kode Program
+```php
+$buah = array("Apel", "Jeruk", "Mangga", "Anggur"); 
+foreach ($buah as $nama) {
+echo "Saya suka makan $nama <br>"; 
+}
+```
+
+### Hasil
+![](aset/php16.png)
+
+
+
+#### Analisis
+
+- Baris 1: Mendefinisikan array `$buah`.
+- Baris 2: Foreach loop akan mengulang setiap nilai dalam array `$buah` dan menyimpannya dalam variabel `$nama`.
+- Baris 3: Mencetak teks "Saya suka makan ..." untuk setiap nilai dalam array `$buah`.
+#### Kesimpulan Program
+
+Program akan mencetak teks "Saya suka makan ..." untuk setiap nilai dalam array `$buah`.
+
+### Function
+
+#### Penjelasan
+
+Function digunakan untuk mengelompokkan blok kode yang akan dijalankan secara bersamaan. Ini memungkinkan kita untuk menggunakan kode yang sama berulang kali tanpa harus menulis ulang.
+
+#### Struktur program
+```php
+function nama_function($parameter1, $parameter2, ...) 
+{     // blok kode yang akan dijalankan 
+}
+```
+
+
+#### Kode Program
+```php
+function tambah($a, $b) {
+return $a + $b; 
+} 
+$hasil = tambah(5, 3); 
+echo "Hasil penjumlahan: $hasil";
+```
+
+### Hasil
+![](aset/php17.png)
+
+
+
+#### Analisis
+
+- Baris 1-3: Mendefinisikan function `tambah` yang menerima dua parameter `$a` dan `$b` dan mengembalikan hasil penjumlahan.
+- Baris 5: Memanggil function `tambah` dengan nilai 5 dan 3 sebagai parameter.
+- Baris 6: Mencetak hasil penjumlahan.
+
+#### Kesimpulan Program
+
+Program akan mencetak hasil penjumlahan dari 5 dan 3, yaitu 8.
+
+## PHP Form
+
+### GET Method
+
+#### Penjelasan
+
+Metode GET digunakan untuk mengirimkan data form ke server dalam URL. Data form akan terlihat pada URL dan cocok untuk digunakan dalam kasus-kasus di mana data yang dikirimkan tidak sensitif.
+
+#### Struktur program
+```html
+<form action="proses.php" method="get"> 
+<label for="nama">Nama:</label>
+<input type="text" id="nama" name="nama">
+<br>     
+<label for="email">Email:</label>
+<input type="email" id="email" name="email">
+<br> 
+<input type="submit" value="Submit">
+</form>
+```
+#### Kode Program 
+```php
+<?php if (isset($_GET['nama']) && isset($_GET['email'])) { 
+$nama = $_GET['nama'];
+$email = $_GET['email']; 
+echo "Nama: $nama <br>";
+echo "Email: $email"; } 
+?>
+```
+
+### Hasil
+![](aset/php18.png)
+
+
+#### Analisis
+
+- Baris 1: Membuat form dengan action menuju `proses.php` dan method GET.
+- Baris 2-5: Membuat input untuk nama dan email.
+- Baris 6: Menggunakan input submit untuk mengirimkan form.
+- Baris 2 (proses.php): Memeriksa apakah variabel `$_GET['nama']` dan `$_GET['email']` sudah di-set.
+- Baris 3-4 (proses.php): Jika sudah di-set, maka variabel `$nama` dan `$email` akan diisi dengan nilai dari form dan dicetak.
+
+#### Kesimpulan Program
+
+Jika form diisi dan dikirim, halaman `proses.php` akan mencetak nama dan email yang diisi dalam form.
+
+### POST Method
+
+#### Penjelasan
+
+Metode POST digunakan untuk mengirimkan data form ke server dalam bentuk tersembunyi. Data form tidak akan terlihat pada URL dan cocok untuk digunakan dalam kasus-kasus di mana data yang dikirimkan sensitif.
+
+#### Struktur program
+```php
+<?php 
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Proses data yang dikirim melalui metode POST
+    $nama = $_POST['nama'];
+    $email = $_POST['email'];
+    // Contoh output
+    echo "Nama: $nama <br>";
+	echo "Email: $email";
+}
+?>
+```
+
+#### Kode Program
+```php
+<?php 
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Proses data yang dikirim melalui metode POST
+    $nama = $_POST['nama'];
+    $email = $_POST['email'];
+    // Contoh output
+    echo "Nama: $nama <br>";
+    echo "Email: $email";
+}
+?>
+```
+
+### Hasil
+![](aset/php18.png)
+
+	
+
+#### Analisis
+
+- Struktur form dan prosesnya sama dengan metode GET, namun menggunakan `method="post"` pada form.
+- Data form akan dikirimkan ke halaman `proses.php` menggunakan metode POST.
+- Halaman `proses.php` akan mengakses data form menggunakan `$_POST` dan mencetaknya.
+
+#### Kesimpulan Program
+
+Program akan mencetak nama dan email yang diisi dalam form setelah form dikirim dengan metode POST.
+
+
 # Looping (Perulangan)
 ## FOR
 ### Penjelasan
