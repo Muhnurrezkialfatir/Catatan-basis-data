@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Instalasi & Query awal data basee.md",
+                "file": "folder PHP/PHP1-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +308,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data basee.md",
+            "file": "folder PHP/PHP1-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data basee.md",
+            "file": "folder PHP/PHP1-1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -337,7 +337,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Instalasi & Query awal data basee.md"
+            "file": "folder PHP/PHP1-1.md"
           }
         }
       },
@@ -364,11 +364,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "05b5412b90213b70",
+  "active": "3da45db2db5cb04a",
   "lastOpenFiles": [
+    "folder PHP/Asetphp/25.png",
+    "Basis data/Instalasi & Query awal data basee.md",
     "folder PHP/PHP1-1.md",
     "folder PHP/PHP1.md",
-    "Basis data/Instalasi & Query awal data basee.md",
     "Basis data/Alterr.md",
     "Basis data/Tantangan 7 nomor.md",
     "Basis data/Selectt.md",
@@ -402,7 +403,6 @@
     "Penting tdk penting/Hi.md",
     "Penting tdk penting/Tantangan.md",
     "Penting tdk penting",
-    "Penting tdk penting/File CSS.md",
     "PHP/Asetphp",
     "PHP",
     "Belajar CSS/assets",
