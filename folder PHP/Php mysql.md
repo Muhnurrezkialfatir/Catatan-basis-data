@@ -4,7 +4,7 @@
 ```php
 <?php
 //koneksi ke database
-$koneksi = mysqli_connect('localhost', 'root', '', 'rental_angga');
+$koneksi = mysqli_connect('localhost', 'root', '', 'rental_fatir');
 // Memeriksa koneksi
 if (!$koneksi) {
     die("Error, tidak bisa koneksi ke database: " . mysqli_connect_error());

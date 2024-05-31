@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "folder PHP/PHP1-1.md",
+                "file": "folder PHP/Php mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +308,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "folder PHP/PHP1-1.md",
+            "file": "folder PHP/Php mysql.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "folder PHP/PHP1-1.md",
+            "file": "folder PHP/Php mysql.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -337,7 +337,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "folder PHP/PHP1-1.md"
+            "file": "folder PHP/Php mysql.md"
           }
         }
       },
@@ -364,11 +364,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3da45db2db5cb04a",
+  "active": "05b5412b90213b70",
   "lastOpenFiles": [
+    "folder PHP/PHP1-1.md",
     "folder PHP/Asetphp/25.png",
     "Basis data/Instalasi & Query awal data basee.md",
-    "folder PHP/PHP1-1.md",
     "folder PHP/PHP1.md",
     "Basis data/Alterr.md",
     "Basis data/Tantangan 7 nomor.md",
@@ -390,7 +390,6 @@
     "Belajar CSS/AsetCSS/A29.jpg",
     "Belajar CSS/AsetCSS/A28.jpg",
     "Belajar CSS/AsetCSS/A27.jpg",
-    "Belajar CSS/AsetCSS/A26.jpg",
     "Penting tdk penting/Filee CSS.md",
     "Belajar CSS/GambarCSS.md",
     "Belajar CSS/SEMANTIC HTML.md",
