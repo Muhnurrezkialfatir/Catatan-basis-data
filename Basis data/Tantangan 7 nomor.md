@@ -84,3 +84,5 @@ select pemilik,MAX(harga_rental) AS Pemasukan_Terbesar ,MIN(harga_rental) AS pem
 ```
 ### Hasil
 ![maxmin](pemasukan%20besar%20dan%20kecil.jpg)
+
+
