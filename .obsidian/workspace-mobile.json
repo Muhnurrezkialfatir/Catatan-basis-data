@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Gambar PhP.md",
+                "file": "Basis data/Selectt.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +308,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHP/Gambar PhP.md",
+            "file": "Basis data/Selectt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHP/Gambar PhP.md",
+            "file": "Basis data/Selectt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -337,7 +337,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHP/Gambar PhP.md"
+            "file": "Basis data/Selectt.md"
           }
         }
       },
@@ -366,6 +366,7 @@
   },
   "active": "05b5412b90213b70",
   "lastOpenFiles": [
+    "PHP/Gambar PhP.md",
     "PHP/Catatan PHP.md",
     "PHP/Studi kasus.md",
     "Belajar HTML/SEMANTIC HTML.md",
@@ -401,7 +402,6 @@
     "Belajar CSS/GambarCSS.md",
     "Belajar CSS/Web font.md",
     "Belajar CSS/CSS Responsivebaru.md",
-    "Penting tdk penting/Select.md",
     "Penting tdk penting",
     "PHP/Asetphp",
     "PHP",

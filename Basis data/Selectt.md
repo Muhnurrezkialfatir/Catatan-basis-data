@@ -315,11 +315,11 @@ SELECT * FROM mobil
 
 ![300](Asetdatabase/18.jpg)
 ### Analisis
-SELECT * artinya kita akan mengambil semua kolom dari tabel "mobil".
+`SELECT *` artinya kita akan mengambil semua kolom dari tabel "mobil".
 FROM mobil artinya kita akan mengambil data dari tabel "mobil".
-WHERE pemilik LIKE 'I__' artinya kita hanya akan mengambil baris-baris di mana nilai kolom "pemilik" terdiri dari 3 karakter, di mana karakter pertama adalah "I" (dilambangkan oleh underscore _) dan dua karakter berikutnya adalah karakter apa pun.
+WHERE pemilik `LIKE 'I__' `artinya kita hanya akan mengambil baris-baris di mana nilai kolom "pemilik" terdiri dari 3 karakter, di mana karakter pertama adalah "I" (dilambangkan oleh underscore _) dan dua karakter berikutnya adalah karakter apa pun.
 ### Kesimpulan
- Perintah SELECT * digunakan untuk mengambil semua kolom dari tabel "mobil". Selanjutnya, FROM mobil menunjukkan bahwa data diambil dari tabel "mobil". Klausa WHERE pemilik LIKE 'I__' digunakan untuk memfilter baris-baris di mana nilai kolom "pemilik" terdiri dari 3 karakter, di mana karakter pertama adalah "I" (dilambangkan oleh underscore _) dan dua karakter berikutnya adalah karakter apa pun. Jadi, pernyataan ini akan mengambil baris-baris di mana nilai kolom "pemilik" memenuhi pola tersebut.
+ Perintah `SELECT *` digunakan untuk mengambil semua kolom dari tabel "mobil". Selanjutnya, FROM mobil menunjukkan bahwa data diambil dari tabel "mobil". Klausa WHERE pemilik LIKE `'I__' `digunakan untuk memfilter baris-baris di mana nilai kolom "pemilik" terdiri dari 3 karakter, di mana karakter pertama adalah "I" (dilambangkan oleh underscore _) dan dua karakter berikutnya adalah karakter apa pun. Jadi, pernyataan ini akan mengambil baris-baris di mana nilai kolom "pemilik" memenuhi pola tersebut.
 ## Kombinasi
 ### Struktur
 ```mysql
