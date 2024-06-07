@@ -7,3 +7,6 @@
 ![[Bulan1.jpg]]
 ![[Motor1.jpg]]
 ![[Span.jpg]]
+![[Belajar HTML/Gambarhasilhtml/1.jpg]]
+![[Belajar HTML/Gambarhasilhtml/2.jpg]]
+![[Belajar HTML/Gambarhasilhtml/3.jpg]]

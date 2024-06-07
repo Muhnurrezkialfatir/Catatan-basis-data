@@ -5,7 +5,7 @@ Dalam semantic HTML, masing-masing elemen memiliki nama yang mencerminkan arti d
 
 Artinya,  jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh manusia tapi juga oleh mesin, semantic HTML adalah solusi yang tepat.
 saya berikan contoh dari gambar berikut.
-![semantic HTML vs non semantic](assets/HTML/semantic%20vs%20non%20semantic.jpg)
+![semantic HTML vs non semantic](Gambarhasilhtml/1.jpg)
 
 Mungkin kalian bertanya-tanya, “Apa perbedaan antara semantic HTML dan non-semantic HTML?”
 
@@ -117,14 +117,14 @@ Berikut beberapa contoh umum penggunaan tag semantik yang salah:
 Selalu urutkan elemen header berdasarkan kepentingannya.
 
 Misalnya, semua judul H3 yang mengikuti judul H2 tertentu harus menjadi subtopik dari H2 tersebut.
-![100%](assets/HTML/best-praktis-h1.png)
+![100%](Gambarhasilhtml/2.jpg)
 Dengan cara ini, struktur judul menciptakan hierarki logis dari topik dalam konten Anda dan membantu pembaca dan mesin pencari lebih memahami dan menavigasi teks.
 
 ## Jangan Hanya Menyalin Tata Letak Visual Anda
 Implementasi HTML Anda tidak boleh hanya menjadi duplikat tata letak visual. Sebaliknya, itu harus mengikuti struktur semantik halaman.
 
 Mari kita lihat contoh ini:
-![100%](assets/HTML/best-praktis-layout.png)
+![100%](Gambarhasilhtml/3.jpg)
 Penggunaan tag HTML di sisi kiri salah karena menunjukkan bahwa halaman tersebut berisi empat topik berbeda, bukan satu topik dan tiga subtopik, seperti yang ditunjukkan di sebelah kanan.
 
 Di sisi kanan, kami memiliki halaman yang dibuat dengan benar menggunakan HTML semantik. Meskipun ada empat bagian terpisah dalam tata letak visual halaman, tag HTML disusun berdasarkan semantik konten.

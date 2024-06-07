@@ -150,8 +150,7 @@ ALTER TABLE mobil RENAME TO data_mobil;
 #### Before
 ![](Asetdatabase/51.jpg)
 #### After
-![](asetdatabase/52.jpg)
-
+![](Asetdatabase/52.jpg)
 ### Analisis
 - `ALTER TABLE mobil`: Perintah untuk mengubah tabel dengan nama `mobil`.
 - `RENAME TO data_mobil`: Mengubah nama tabel `mobil` menjadi `data_mobil`.
