@@ -235,8 +235,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Selectt.md",
-                "mode": "source",
+                "file": "Php mysql.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -308,7 +308,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Selectt.md",
+            "file": "Php mysql.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Selectt.md",
+            "file": "Php mysql.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -337,7 +337,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Selectt.md"
+            "file": "Php mysql.md"
           }
         }
       },
@@ -366,6 +366,34 @@
   },
   "active": "05b5412b90213b70",
   "lastOpenFiles": [
+    "PHP/Catatan PHP.pdf",
+    "materi+hasil praktikum/Praktikum.pdf",
+    "folder PHP/PHP1-1.pdf",
+    "folder PHP/Php mysql.pdf",
+    "folder PHP/Pengenalan PHP.pdf",
+    "Belajar HTML/Belajar HTML.pdf",
+    "Belajar CSS/Web font.pdf",
+    "Belajar CSS/Fileeee CSS.pdf",
+    "Basis data/Selectt.pdf",
+    "Basis data/Instalasi & Query awal data basee.pdf",
+    "Basis data/Asetdatabase/62.png",
+    "Basis data/Asetdatabase/61.png",
+    "Basis data/Asetdatabase/60.png",
+    "Basis data/Asetdatabase/59.png",
+    "Basis data/Asetdatabase/58.png",
+    "Basis data/Asetdatabase/57.png",
+    "Basis data/Asetdatabase/56.png",
+    "Basis data/Asetdatabase/55.png",
+    "Basis data/Asetdatabase/54.png",
+    "Basis data/Asetdatabase/53.png",
+    "Basis data/Alterr.pdf",
+    "Basis data/Selectt.md",
+    "Basis data/Instalasi & Query awal data basee.md",
+    "Belajar CSS/Fileeee CSS.md",
+    "Belajar CSS/Bootstrap Framework.md",
+    "Basis data/Data base.md",
+    "Basis data/Alterr.md",
+    "Basis data/Pengertian basis data.md",
     "PHP/Gambar PhP.md",
     "PHP/Catatan PHP.md",
     "PHP/Studi kasus.md",
@@ -373,44 +401,16 @@
     "Belajar HTML/Belajar HTML.md",
     "Asethtml.md",
     "Belajar HTML/Sshasilhtml.md",
-    "Belajar HTML/Gambarhasilhtml/3.jpg",
-    "IMG_20240607_162750 1.jpg",
-    "Belajar HTML/Gambarhasilhtml/2.jpg",
-    "Belajar HTML/Gambarhasilhtml/1.jpg",
     "materi+hasil praktikum/Praktikum.md",
     "Penting tdk penting/Tantangan 7 nomor.md",
-    "Basis data/Selectt.md",
-    "Basis data/Alterr.md",
-    "Basis data/Asetdatabase/52.jpg",
     "materi+hasil praktikum/Html/Pertemuan_1.md",
-    "Belajar CSS/assets/btc-17.png",
-    "Belajar CSS/assets/btc-5.png",
-    "Belajar CSS/assets/bf-10.png",
-    "Basis data/Instalasi & Query awal data basee.md",
     "folder PHP/PHP1-1.md",
     "folder PHP/Php mysql.md",
-    "folder PHP/Asetphp/25.png",
     "folder PHP/PHP1.md",
-    "Basis data/Pengertian basis data.md",
     "Php mysql.md",
     "Basis data/Ssdatabase.md",
-    "Basis data/Data base.md",
-    "Belajar CSS/Fileeee CSS.md",
-    "Belajar CSS/AsetCSS/A1.jpg",
     "Penting tdk penting/Fileee CSS.md",
     "Penting tdk penting/Filee CSS.md",
-    "Belajar CSS/GambarCSS.md",
-    "Belajar CSS/Web font.md",
-    "Belajar CSS/CSS Responsivebaru.md",
-    "Penting tdk penting",
-    "PHP/Asetphp",
-    "PHP",
-    "Belajar CSS/assets",
-    "Asetcss",
-    "Asetwebfont",
-    "Belajar CSS/Asetwebfont",
-    "Penting tdk penting/d.loom",
-    "asetcss",
-    "Belajar CSS/AsetCSS"
+    "Belajar CSS/GambarCSS.md"
   ]
 }
