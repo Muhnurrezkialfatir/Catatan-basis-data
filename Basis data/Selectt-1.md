@@ -134,11 +134,11 @@ SELECT nama FROM Akun WHERE nama = 'tir';
 ### Hasil
 ![](Asetdatabase/62.png)
 ### Analisis
-- `SELECT pemilik`: Bagian query ini menunjukkan bahwa Anda ingin mengambil nilai dari kolom bernama "pemilik" di tabel yang ditentukan.
-- `FROM mobil`: Ini menentukan tabel tempat ingin mengambil data, dalam hal ini, tabel bernama "mobil."
-- `WHERE no_plat="DD 2440 AX";`: Menunjukkan bahwa hanya ingin mengambil baris yang nilai di kolom "no_plat" sama dengan "DD 2440 AX."
+- `SELECT nama`: Bagian query ini menunjukkan bahwa Anda ingin mengambil nilai dari kolom bernama "nama" di tabel yang ditentukan.
+- `FROM Akun`: Ini menentukan tabel tempat ingin mengambil data, dalam hal ini, tabel bernama "akun."
+- `WHERE nama="tir";`: Menunjukkan bahwa hanya ingin mengambil baris yang nilai di kolom "nama" sama dengan "tir."
 ### Kesimpulan
-Kesimpulan dari `SELECT` yang berikan yaitu mencari informasi pemilik mobil dengan nomor plat "DD 2440 AX" dari tabel mobil.
+Kesimpulan dari `SELECT` yang berikan yaitu mencari informasi pemilik akun dengan nama "tir" dari tabel akun.
 ## IN
 ### Struktur
 ```mysql
@@ -653,6 +653,7 @@ Jika ingin menghapus tabel virtual cukup dengan perintah DROP VIEW.
 
 
 # Tantangan
+Satu
 ## Mobil Tanpa Peminjam
 ### Kode
 ```sql
@@ -675,6 +676,8 @@ CREATE VIEW mobil_Tanpa_peminjam AS`: adalah perintah untuk membuat sebuah `view
 `CREATE VIEW mobil_Tanpa_peminjam AS Select no_plat, peminjam From mobil WHERE peminjam IS NULL;` digunakan untuk membuat sebuah `view` baru bernama `mobil_Tanpa_peminjam`. `Viewnya` berisi dua kolom, yaitu `no_plat` dan `peminjam`, yang diambil dari tabel `mobil` Hanya baris-baris yang memiliki nilai `NULL` pada kolom `peminjam` yang dimasukkan ke dalam `view`. 
 
 `SELECT * FROM mobil_Tanpa_peminjam;` digunakan untuk menampilkan semua data dari `view mobil_Tanpa_peminjam`, yang telah dibuat sebelumnya dengan kriteria yang bernilai `NULL`.
+
+Dua
 ## Update Mobil
 ### Kode
 ```sql
@@ -696,6 +699,8 @@ where peminjam =  'Elia' ;
 Kesimpulannya, perintah digunakan untuk menghapus atau mengubah nilai `peminjam` menjadi `NULL` untuk semua entri di tabel `mobil` dimana `peminjam`memiliki nilai `'Elia'`.
 
 `SELECT * FROM mobil_Tanpa_peminjam;` digunakan untuk menampilkan semua data dari `view mobil_Tanpa_peminjam`, yang telah dibuat sebelumnya dengan mengubah atau menghapus nilai `peminjam` menjadi `NULL` untuk tabel `mobil` dimana peminjam memiliki nilai `Elia`.
+
+Ketiga
 ### Kesimpulan 
 Berikan Kesimpulan mengapa tabel Virtual 1,2 ini dibuat?
 View dapat digunakan untuk menyaring data yang sesuai dengan kriteria tertentu, seperti menampilkan entri yang memiliki nilai NULL pada kolom tertentu atau mengubah salah satu data peminjam menjadi NULL. memberikan pandangan yang jelas tentang mobil yang tersedia untuk disewakan atau yang belum dipinjam.
