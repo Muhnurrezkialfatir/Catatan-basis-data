@@ -221,11 +221,9 @@
             "id": "c204e6215f6dda2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
-                "mode": "source",
-                "source": false
+                "file": "Basis data/Selectt.pdf"
               }
             }
           }
@@ -296,7 +294,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -313,7 +310,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -325,7 +321,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md"
+            "file": "Basis data/Selectt.pdf"
           }
         }
       },
@@ -354,8 +350,12 @@
   },
   "active": "c204e6215f6dda2f",
   "lastOpenFiles": [
-    "Basis data/RELASI/Tantangan PHPmyadmin.pdf",
+    "Basis data/Selectt.pdf",
+    "Basis data/Selectt.md",
+    "Basis data/Selectt-1.md",
+    "Basis data/Instalasi & Query awal data basee.md",
     "Basis data/RELASI/Tantangan PHPmyadmin.md",
+    "Basis data/RELASI/Tantangan PHPmyadmin.pdf",
     "Penting tdk penting/PHP/Catatan PHP.md",
     "Basis data/RELASI/gambar phpmyadmin.md",
     "Basis data/RELASI/Asetphpmyadmin/9.png",
@@ -380,19 +380,15 @@
     "Penting tdk penting/PHP/Catatan PHP.pdf",
     "Penting tdk penting/PHP/Gambar PhP.md",
     "Penting tdk penting/PHP/Studi kasus.md",
-    "Basis data/Selectt.pdf",
     "folder PHP/Php mysql.pdf",
     "folder PHP/Pengenalan PHP.pdf",
     "Basis data/Instalasi & Query awal data basee.pdf",
     "Basis data/Alterr.pdf",
     "Penting tdk penting/Php mysql.md",
-    "Basis data/Selectt-1.md",
     "folder PHP/Php mysql.md",
     "folder PHP/PHP1-1.md",
     "folder PHP/Pengenalan PHP.md",
     "materi+hasil praktikum/Praktikum.pdf",
-    "Basis data/Selectt.md",
-    "Basis data/Instalasi & Query awal data basee.md",
     "Belajar CSS/Fileeee CSS.md",
     "Belajar CSS/Bootstrap Framework.md",
     "Basis data/Data base.md",

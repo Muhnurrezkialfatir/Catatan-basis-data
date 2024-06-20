@@ -1006,3 +1006,48 @@ select pemilik,MAX(harga_rental) AS Pemasukan_Terbesar ,MIN(harga_rental) AS pem
 - **HAVING COUNT(harga_rental) > 1** merupakan klausa yang digunakan untuk menyaring kelompok yang memiliki lebih dari satu baris data di kolom `harga_rental`.
 ### Kesimpulan
 Perintah SQL ini akan menghasilkan daftar pemilik mobil beserta nilai pemasukan terbesar dan pemasukan terkecil dari harga rental yang mereka miliki. Hasil query akan menampilkan tiga kolom: `pemilik` yang berisi nama pemilik, `Pemasukan_Terbesar` yang berisi nilai tertinggi dari harga rental, dan `pemasukan_terkecil` yang berisi nilai terendah dari harga rental untuk setiap pemilik yang memiliki lebih dari satu data rental.
+
+# Hasil Tantangan
+## Data Tabel
+
+![](Asetphpmyadmin/1.png)
+
+## Perubahan Struktur Tabel 
+
+### Before
+![](Asetphpmyadmin/4.png)
+
+### After
+![](Asetphpmyadmin/6.jpeg)
+
+## Perubahan Data Tabel 
+### Before pegawai
+![](Asetphpmyadmin/1.png)
+
+### After pegawai
+![](Asetphpmyadmin/3.png)
+
+### Before cabang
+![](Asetphpmyadmin/7.png)
+
+### After cabang 
+![](Asetphpmyadmin/8.png)
+
+## Hasil Relasi 
+![](Asetphpmyadmin/10.jpeg)
+
+
+## Query Relasi dan Hasil
+
+### Kode Program
+```mysql
+
+SELECT s.nama AS Nama_Siswa, n.nilai AS Nilai
+FROM nilai AS n
+INNER JOIN siswa AS s ON s.id = n.id_siswa
+WHERE n.nilai > 75;
+```
+
+
+### Hasil
+![](Asetphpmyadmin/9.png)
