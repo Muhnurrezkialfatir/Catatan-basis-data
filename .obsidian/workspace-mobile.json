@@ -223,7 +223,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penting tdk penting/PHP/Catatan PHP.md",
+                "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
                 "mode": "source",
                 "source": false
               }
@@ -296,7 +296,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Penting tdk penting/PHP/Catatan PHP.md",
+            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Penting tdk penting/PHP/Catatan PHP.md",
+            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -325,7 +325,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Penting tdk penting/PHP/Catatan PHP.md"
+            "file": "Basis data/RELASI/Tantangan PHPmyadmin.md"
           }
         }
       },
@@ -356,6 +356,7 @@
   "lastOpenFiles": [
     "Basis data/RELASI/Tantangan PHPmyadmin.pdf",
     "Basis data/RELASI/Tantangan PHPmyadmin.md",
+    "Penting tdk penting/PHP/Catatan PHP.md",
     "Basis data/RELASI/gambar phpmyadmin.md",
     "Basis data/RELASI/Asetphpmyadmin/9.png",
     "Basis data/RELASI/Asetphpmyadmin/8.png",
@@ -397,7 +398,6 @@
     "Basis data/Data base.md",
     "Basis data/Alterr.md",
     "Basis data/Pengertian basis data.md",
-    "Penting tdk penting/PHP/Catatan PHP.md",
     "Belajar HTML/SEMANTIC HTML.md"
   ]
 }

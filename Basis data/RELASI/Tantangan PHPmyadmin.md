@@ -42,4 +42,3 @@ WHERE n.nilai > 75;
 
 ### Hasil
 ![](Asetphpmyadmin/9.png)
-
