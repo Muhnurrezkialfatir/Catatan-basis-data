@@ -221,9 +221,9 @@
             "id": "c204e6215f6dda2f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Basis data/Selectt.pdf"
+                "file": "Basis data/Asetphpmyadmin/10.jpeg"
               }
             }
           }
@@ -294,6 +294,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Basis data/Asetphpmyadmin/10.jpeg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -310,6 +311,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Basis data/Asetphpmyadmin/10.jpeg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -321,7 +323,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Selectt.pdf"
+            "file": "Basis data/Asetphpmyadmin/10.jpeg"
           }
         }
       },
@@ -350,26 +352,28 @@
   },
   "active": "c204e6215f6dda2f",
   "lastOpenFiles": [
+    "Basis data/Selectt-2.md",
+    "Basis data/Selectt-2.pdf",
+    "Basis data/Asetphpmyadmin/9.png",
+    "Basis data/Asetphpmyadmin/8.png",
+    "Basis data/Asetphpmyadmin/7.png",
+    "Basis data/Asetphpmyadmin/6.jpeg",
+    "Basis data/Asetphpmyadmin/5.png",
+    "Basis data/Asetphpmyadmin/4.png",
+    "Basis data/Asetphpmyadmin/3.png",
+    "Basis data/Asetphpmyadmin/2.png",
+    "Basis data/Asetphpmyadmin/1.png",
     "Basis data/Selectt.pdf",
     "Basis data/Selectt.md",
     "Basis data/Selectt-1.md",
     "Basis data/Instalasi & Query awal data basee.md",
-    "Basis data/RELASI/Tantangan PHPmyadmin.md",
-    "Basis data/RELASI/Tantangan PHPmyadmin.pdf",
+    "Basis data/Tantangan PHPmyadmin.md",
+    "Basis data/Tantangan PHPmyadmin.pdf",
     "Penting tdk penting/PHP/Catatan PHP.md",
-    "Basis data/RELASI/gambar phpmyadmin.md",
-    "Basis data/RELASI/Asetphpmyadmin/9.png",
-    "Basis data/RELASI/Asetphpmyadmin/8.png",
-    "Basis data/RELASI/Asetphpmyadmin/7.png",
-    "Basis data/RELASI/Asetphpmyadmin/6.jpeg",
-    "Basis data/RELASI/Asetphpmyadmin/5.png",
-    "Basis data/RELASI/Asetphpmyadmin/4.png",
-    "Basis data/RELASI/Asetphpmyadmin/3.png",
-    "Basis data/RELASI/Asetphpmyadmin/2.png",
-    "Basis data/RELASI/Asetphpmyadmin/10.jpeg",
-    "Basis data/RELASI/Asetphpmyadmin/1.png",
-    "Basis data/RELASI/Asetphpmyadmin",
-    "Basis data/RELASI",
+    "Basis data/gambar phpmyadmin.md",
+    "Basis data/Asetphpmyadmin/10.jpeg",
+    "Basis data/Asetphpmyadmin",
+    "Penting tdk penting/RELASI",
     "Penting tdk penting/SELECT LANJUTAN.md",
     "Penting tdk penting/Select.md",
     "Penting tdk penting/Cihuy.md",
@@ -388,7 +392,6 @@
     "folder PHP/Php mysql.md",
     "folder PHP/PHP1-1.md",
     "folder PHP/Pengenalan PHP.md",
-    "materi+hasil praktikum/Praktikum.pdf",
     "Belajar CSS/Fileeee CSS.md",
     "Belajar CSS/Bootstrap Framework.md",
     "Basis data/Data base.md",
