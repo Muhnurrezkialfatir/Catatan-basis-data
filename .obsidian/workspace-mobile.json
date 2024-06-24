@@ -221,10 +221,8 @@
             "id": "c204e6215f6dda2f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Basis data/Asetphpmyadmin/10.jpeg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -294,7 +292,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Asetphpmyadmin/10.jpeg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -311,7 +308,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Asetphpmyadmin/10.jpeg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -322,9 +318,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Basis data/Asetphpmyadmin/10.jpeg"
-          }
+          "state": {}
         }
       },
       {
@@ -352,6 +346,7 @@
   },
   "active": "c204e6215f6dda2f",
   "lastOpenFiles": [
+    "Basis data/Asetphpmyadmin/10.jpeg",
     "Basis data/Selectt-2.md",
     "Basis data/Selectt-2.pdf",
     "Basis data/Asetphpmyadmin/9.png",
@@ -371,7 +366,6 @@
     "Basis data/Tantangan PHPmyadmin.pdf",
     "Penting tdk penting/PHP/Catatan PHP.md",
     "Basis data/gambar phpmyadmin.md",
-    "Basis data/Asetphpmyadmin/10.jpeg",
     "Basis data/Asetphpmyadmin",
     "Penting tdk penting/RELASI",
     "Penting tdk penting/SELECT LANJUTAN.md",
@@ -396,7 +390,6 @@
     "Belajar CSS/Bootstrap Framework.md",
     "Basis data/Data base.md",
     "Basis data/Alterr.md",
-    "Basis data/Pengertian basis data.md",
-    "Belajar HTML/SEMANTIC HTML.md"
+    "Basis data/Pengertian basis data.md"
   ]
 }
